@@ -92,6 +92,7 @@ Partial Class Form1
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.Size = New System.Drawing.Size(35, 20)
         Me.TextBox3.TabIndex = 2
+        Me.TextBox3.Text = "M"
         '
         'TextBox4
         '
@@ -99,6 +100,7 @@ Partial Class Form1
         Me.TextBox4.Name = "TextBox4"
         Me.TextBox4.Size = New System.Drawing.Size(35, 20)
         Me.TextBox4.TabIndex = 3
+        Me.TextBox4.Text = "M"
         '
         'TextBox5
         '
@@ -106,6 +108,7 @@ Partial Class Form1
         Me.TextBox5.Name = "TextBox5"
         Me.TextBox5.Size = New System.Drawing.Size(35, 20)
         Me.TextBox5.TabIndex = 4
+        Me.TextBox5.Text = "M"
         '
         'TextBox6
         '
@@ -113,6 +116,7 @@ Partial Class Form1
         Me.TextBox6.Name = "TextBox6"
         Me.TextBox6.Size = New System.Drawing.Size(36, 20)
         Me.TextBox6.TabIndex = 5
+        Me.TextBox6.Text = "M"
         '
         'TextBox7
         '
@@ -120,6 +124,7 @@ Partial Class Form1
         Me.TextBox7.Name = "TextBox7"
         Me.TextBox7.Size = New System.Drawing.Size(37, 20)
         Me.TextBox7.TabIndex = 6
+        Me.TextBox7.Text = "M"
         '
         'TextBox8
         '
@@ -127,6 +132,7 @@ Partial Class Form1
         Me.TextBox8.Name = "TextBox8"
         Me.TextBox8.Size = New System.Drawing.Size(44, 20)
         Me.TextBox8.TabIndex = 7
+        Me.TextBox8.Text = "K"
         '
         'TextBox9
         '
@@ -134,6 +140,7 @@ Partial Class Form1
         Me.TextBox9.Name = "TextBox9"
         Me.TextBox9.Size = New System.Drawing.Size(44, 20)
         Me.TextBox9.TabIndex = 8
+        Me.TextBox9.Text = "M"
         '
         'TextBox10
         '
@@ -141,6 +148,7 @@ Partial Class Form1
         Me.TextBox10.Name = "TextBox10"
         Me.TextBox10.Size = New System.Drawing.Size(44, 20)
         Me.TextBox10.TabIndex = 9
+        Me.TextBox10.Text = "M"
         '
         'TextBox11
         '
@@ -148,6 +156,7 @@ Partial Class Form1
         Me.TextBox11.Name = "TextBox11"
         Me.TextBox11.Size = New System.Drawing.Size(44, 20)
         Me.TextBox11.TabIndex = 10
+        Me.TextBox11.Text = "M"
         '
         'TextBox12
         '
@@ -155,6 +164,7 @@ Partial Class Form1
         Me.TextBox12.Name = "TextBox12"
         Me.TextBox12.Size = New System.Drawing.Size(44, 20)
         Me.TextBox12.TabIndex = 11
+        Me.TextBox12.Text = "M"
         '
         'TextBox13
         '
@@ -162,6 +172,7 @@ Partial Class Form1
         Me.TextBox13.Name = "TextBox13"
         Me.TextBox13.Size = New System.Drawing.Size(40, 20)
         Me.TextBox13.TabIndex = 12
+        Me.TextBox13.Text = "K"
         '
         'TextBox14
         '
@@ -169,6 +180,7 @@ Partial Class Form1
         Me.TextBox14.Name = "TextBox14"
         Me.TextBox14.Size = New System.Drawing.Size(38, 20)
         Me.TextBox14.TabIndex = 13
+        Me.TextBox14.Text = "X"
         '
         'TextBox15
         '
@@ -176,6 +188,7 @@ Partial Class Form1
         Me.TextBox15.Name = "TextBox15"
         Me.TextBox15.Size = New System.Drawing.Size(40, 20)
         Me.TextBox15.TabIndex = 14
+        Me.TextBox15.Text = "M"
         '
         'TextBox16
         '
@@ -183,6 +196,7 @@ Partial Class Form1
         Me.TextBox16.Name = "TextBox16"
         Me.TextBox16.Size = New System.Drawing.Size(40, 20)
         Me.TextBox16.TabIndex = 15
+        Me.TextBox16.Text = "M"
         '
         'TextBox17
         '
@@ -190,6 +204,7 @@ Partial Class Form1
         Me.TextBox17.Name = "TextBox17"
         Me.TextBox17.Size = New System.Drawing.Size(40, 20)
         Me.TextBox17.TabIndex = 16
+        Me.TextBox17.Text = "M"
         '
         'TextBox18
         '
@@ -197,6 +212,7 @@ Partial Class Form1
         Me.TextBox18.Name = "TextBox18"
         Me.TextBox18.Size = New System.Drawing.Size(40, 20)
         Me.TextBox18.TabIndex = 17
+        Me.TextBox18.Text = "M"
         '
         'TextBox19
         '
@@ -211,6 +227,7 @@ Partial Class Form1
         Me.TextBox20.Name = "TextBox20"
         Me.TextBox20.Size = New System.Drawing.Size(38, 20)
         Me.TextBox20.TabIndex = 19
+        Me.TextBox20.Text = "M"
         '
         'TextBox21
         '
@@ -218,6 +235,7 @@ Partial Class Form1
         Me.TextBox21.Name = "TextBox21"
         Me.TextBox21.Size = New System.Drawing.Size(38, 20)
         Me.TextBox21.TabIndex = 20
+        Me.TextBox21.Text = "M"
         '
         'TextBox22
         '
@@ -225,6 +243,7 @@ Partial Class Form1
         Me.TextBox22.Name = "TextBox22"
         Me.TextBox22.Size = New System.Drawing.Size(38, 20)
         Me.TextBox22.TabIndex = 21
+        Me.TextBox22.Text = "M"
         '
         'TextBox23
         '
@@ -232,6 +251,7 @@ Partial Class Form1
         Me.TextBox23.Name = "TextBox23"
         Me.TextBox23.Size = New System.Drawing.Size(50, 20)
         Me.TextBox23.TabIndex = 22
+        Me.TextBox23.Text = "K"
         '
         'TextBox24
         '
@@ -239,6 +259,7 @@ Partial Class Form1
         Me.TextBox24.Name = "TextBox24"
         Me.TextBox24.Size = New System.Drawing.Size(50, 20)
         Me.TextBox24.TabIndex = 23
+        Me.TextBox24.Text = "M"
         '
         'TextBox25
         '
@@ -246,6 +267,7 @@ Partial Class Form1
         Me.TextBox25.Name = "TextBox25"
         Me.TextBox25.Size = New System.Drawing.Size(50, 20)
         Me.TextBox25.TabIndex = 24
+        Me.TextBox25.Text = "M"
         '
         'TextBox26
         '
@@ -253,6 +275,7 @@ Partial Class Form1
         Me.TextBox26.Name = "TextBox26"
         Me.TextBox26.Size = New System.Drawing.Size(50, 20)
         Me.TextBox26.TabIndex = 25
+        Me.TextBox26.Text = "M"
         '
         'TextBox27
         '
@@ -260,6 +283,7 @@ Partial Class Form1
         Me.TextBox27.Name = "TextBox27"
         Me.TextBox27.Size = New System.Drawing.Size(50, 20)
         Me.TextBox27.TabIndex = 26
+        Me.TextBox27.Text = "M"
         '
         'TextBox28
         '
@@ -267,6 +291,7 @@ Partial Class Form1
         Me.TextBox28.Name = "TextBox28"
         Me.TextBox28.Size = New System.Drawing.Size(55, 20)
         Me.TextBox28.TabIndex = 27
+        Me.TextBox28.Text = "X"
         '
         'TextBox29
         '
@@ -281,6 +306,7 @@ Partial Class Form1
         Me.TextBox30.Name = "TextBox30"
         Me.TextBox30.Size = New System.Drawing.Size(55, 20)
         Me.TextBox30.TabIndex = 29
+        Me.TextBox30.Text = "M"
         '
         'TextBox31
         '
@@ -288,6 +314,7 @@ Partial Class Form1
         Me.TextBox31.Name = "TextBox31"
         Me.TextBox31.Size = New System.Drawing.Size(55, 20)
         Me.TextBox31.TabIndex = 30
+        Me.TextBox31.Text = "M"
         '
         'TextBox32
         '
@@ -295,6 +322,7 @@ Partial Class Form1
         Me.TextBox32.Name = "TextBox32"
         Me.TextBox32.Size = New System.Drawing.Size(55, 20)
         Me.TextBox32.TabIndex = 31
+        Me.TextBox32.Text = "M"
         '
         'TextBox33
         '
@@ -382,7 +410,7 @@ Partial Class Form1
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 23)
         Me.Button1.TabIndex = 42
-        Me.Button1.Text = "Button1"
+        Me.Button1.Text = "Submit"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Button2
@@ -391,7 +419,7 @@ Partial Class Form1
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(75, 23)
         Me.Button2.TabIndex = 43
-        Me.Button2.Text = "Button2"
+        Me.Button2.Text = "Clear"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'TextBox43
@@ -400,6 +428,7 @@ Partial Class Form1
         Me.TextBox43.Name = "TextBox43"
         Me.TextBox43.Size = New System.Drawing.Size(100, 20)
         Me.TextBox43.TabIndex = 44
+        Me.TextBox43.Text = "Coming up"
         '
         'TextBox44
         '
