@@ -24,7 +24,6 @@ Partial Class Form1
     Private Sub InitializeComponent()
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.TextBox2 = New System.Windows.Forms.TextBox()
-        Me.TextBox3 = New System.Windows.Forms.TextBox()
         Me.TextBox4 = New System.Windows.Forms.TextBox()
         Me.TextBox5 = New System.Windows.Forms.TextBox()
         Me.TextBox6 = New System.Windows.Forms.TextBox()
@@ -68,6 +67,7 @@ Partial Class Form1
         Me.Button2 = New System.Windows.Forms.Button()
         Me.TextBox43 = New System.Windows.Forms.TextBox()
         Me.TextBox44 = New System.Windows.Forms.TextBox()
+        Me.Button3 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'TextBox1
@@ -85,14 +85,6 @@ Partial Class Form1
         Me.TextBox2.Size = New System.Drawing.Size(286, 20)
         Me.TextBox2.TabIndex = 1
         Me.TextBox2.Text = "Team"
-        '
-        'TextBox3
-        '
-        Me.TextBox3.Location = New System.Drawing.Point(112, 61)
-        Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox3.TabIndex = 2
-        Me.TextBox3.Text = "M"
         '
         'TextBox4
         '
@@ -437,12 +429,22 @@ Partial Class Form1
         Me.TextBox44.Size = New System.Drawing.Size(292, 20)
         Me.TextBox44.TabIndex = 45
         '
+        'Button3
+        '
+        Me.Button3.Location = New System.Drawing.Point(104, 58)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(45, 23)
+        Me.Button3.TabIndex = 46
+        Me.Button3.Text = "Μ"
+        Me.Button3.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ActiveCaptionText
         Me.ClientSize = New System.Drawing.Size(601, 319)
+        Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.TextBox44)
         Me.Controls.Add(Me.TextBox43)
         Me.Controls.Add(Me.Button2)
@@ -486,7 +488,6 @@ Partial Class Form1
         Me.Controls.Add(Me.TextBox6)
         Me.Controls.Add(Me.TextBox5)
         Me.Controls.Add(Me.TextBox4)
-        Me.Controls.Add(Me.TextBox3)
         Me.Controls.Add(Me.TextBox2)
         Me.Controls.Add(Me.TextBox1)
         Me.Name = "Form1"
@@ -498,7 +499,6 @@ Partial Class Form1
 
     Friend WithEvents TextBox1 As TextBox
     Friend WithEvents TextBox2 As TextBox
-    Friend WithEvents TextBox3 As TextBox
     Friend WithEvents TextBox4 As TextBox
     Friend WithEvents TextBox5 As TextBox
     Friend WithEvents TextBox6 As TextBox
@@ -542,4 +542,5 @@ Partial Class Form1
     Friend WithEvents Button2 As Button
     Friend WithEvents TextBox43 As TextBox
     Friend WithEvents TextBox44 As TextBox
+    Friend WithEvents Button3 As Button
 End Class
