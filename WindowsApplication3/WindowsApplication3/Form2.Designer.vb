@@ -72,370 +72,319 @@ Partial Class Form2
         '
         Me.TextBox1.BackColor = System.Drawing.Color.LightGray
         Me.TextBox1.Location = New System.Drawing.Point(12, 12)
-        Me.TextBox1.Multiline = True
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(296, 35)
+        Me.TextBox1.Size = New System.Drawing.Size(300, 20)
         Me.TextBox1.TabIndex = 0
         '
         'TextBox2
         '
-        Me.TextBox2.BackColor = System.Drawing.Color.Firebrick
-        Me.TextBox2.Location = New System.Drawing.Point(314, 12)
-        Me.TextBox2.Multiline = True
+        Me.TextBox2.BackColor = System.Drawing.Color.AliceBlue
+        Me.TextBox2.Location = New System.Drawing.Point(358, 12)
         Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(300, 35)
+        Me.TextBox2.Size = New System.Drawing.Size(300, 20)
         Me.TextBox2.TabIndex = 1
         '
         'TextBox3
         '
-        Me.TextBox3.BackColor = System.Drawing.SystemColors.Window
-        Me.TextBox3.Location = New System.Drawing.Point(12, 53)
-        Me.TextBox3.Multiline = True
+        Me.TextBox3.Location = New System.Drawing.Point(12, 54)
         Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(128, 35)
+        Me.TextBox3.Size = New System.Drawing.Size(50, 20)
         Me.TextBox3.TabIndex = 2
         '
         'TextBox4
         '
-        Me.TextBox4.Location = New System.Drawing.Point(12, 136)
-        Me.TextBox4.Multiline = True
+        Me.TextBox4.Location = New System.Drawing.Point(12, 92)
         Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(128, 35)
+        Me.TextBox4.Size = New System.Drawing.Size(50, 20)
         Me.TextBox4.TabIndex = 3
         '
         'TextBox5
         '
-        Me.TextBox5.Location = New System.Drawing.Point(12, 94)
-        Me.TextBox5.Multiline = True
+        Me.TextBox5.Location = New System.Drawing.Point(12, 130)
         Me.TextBox5.Name = "TextBox5"
-        Me.TextBox5.Size = New System.Drawing.Size(128, 35)
+        Me.TextBox5.Size = New System.Drawing.Size(50, 20)
         Me.TextBox5.TabIndex = 4
         '
         'TextBox6
         '
-        Me.TextBox6.Location = New System.Drawing.Point(12, 177)
-        Me.TextBox6.Multiline = True
+        Me.TextBox6.Location = New System.Drawing.Point(12, 168)
         Me.TextBox6.Name = "TextBox6"
-        Me.TextBox6.Size = New System.Drawing.Size(128, 35)
+        Me.TextBox6.Size = New System.Drawing.Size(50, 20)
         Me.TextBox6.TabIndex = 5
         '
         'TextBox7
         '
-        Me.TextBox7.Location = New System.Drawing.Point(12, 218)
-        Me.TextBox7.Multiline = True
+        Me.TextBox7.Location = New System.Drawing.Point(12, 207)
         Me.TextBox7.Name = "TextBox7"
-        Me.TextBox7.Size = New System.Drawing.Size(128, 35)
+        Me.TextBox7.Size = New System.Drawing.Size(50, 20)
         Me.TextBox7.TabIndex = 6
         '
         'TextBox8
         '
-        Me.TextBox8.Location = New System.Drawing.Point(146, 94)
-        Me.TextBox8.Multiline = True
+        Me.TextBox8.Location = New System.Drawing.Point(95, 54)
         Me.TextBox8.Name = "TextBox8"
-        Me.TextBox8.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox8.Size = New System.Drawing.Size(43, 20)
         Me.TextBox8.TabIndex = 7
         '
         'TextBox9
         '
-        Me.TextBox9.Location = New System.Drawing.Point(146, 136)
-        Me.TextBox9.Multiline = True
+        Me.TextBox9.Location = New System.Drawing.Point(95, 92)
         Me.TextBox9.Name = "TextBox9"
-        Me.TextBox9.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox9.Size = New System.Drawing.Size(43, 20)
         Me.TextBox9.TabIndex = 8
         '
         'TextBox10
         '
-        Me.TextBox10.Location = New System.Drawing.Point(146, 177)
-        Me.TextBox10.Multiline = True
+        Me.TextBox10.Location = New System.Drawing.Point(95, 130)
         Me.TextBox10.Name = "TextBox10"
-        Me.TextBox10.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox10.Size = New System.Drawing.Size(43, 20)
         Me.TextBox10.TabIndex = 9
         '
         'TextBox11
         '
-        Me.TextBox11.Location = New System.Drawing.Point(146, 218)
-        Me.TextBox11.Multiline = True
+        Me.TextBox11.Location = New System.Drawing.Point(95, 168)
         Me.TextBox11.Name = "TextBox11"
-        Me.TextBox11.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox11.Size = New System.Drawing.Size(43, 20)
         Me.TextBox11.TabIndex = 10
         '
         'TextBox12
         '
-        Me.TextBox12.Location = New System.Drawing.Point(146, 53)
-        Me.TextBox12.Multiline = True
+        Me.TextBox12.Location = New System.Drawing.Point(95, 207)
         Me.TextBox12.Name = "TextBox12"
-        Me.TextBox12.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox12.Size = New System.Drawing.Size(43, 20)
         Me.TextBox12.TabIndex = 11
         '
         'TextBox13
         '
-        Me.TextBox13.Location = New System.Drawing.Point(202, 94)
-        Me.TextBox13.Multiline = True
+        Me.TextBox13.Location = New System.Drawing.Point(182, 53)
         Me.TextBox13.Name = "TextBox13"
-        Me.TextBox13.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox13.Size = New System.Drawing.Size(44, 20)
         Me.TextBox13.TabIndex = 12
         '
         'TextBox14
         '
-        Me.TextBox14.Location = New System.Drawing.Point(202, 136)
-        Me.TextBox14.Multiline = True
+        Me.TextBox14.Location = New System.Drawing.Point(182, 91)
         Me.TextBox14.Name = "TextBox14"
-        Me.TextBox14.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox14.Size = New System.Drawing.Size(44, 20)
         Me.TextBox14.TabIndex = 13
         '
         'TextBox15
         '
-        Me.TextBox15.Location = New System.Drawing.Point(202, 177)
-        Me.TextBox15.Multiline = True
+        Me.TextBox15.Location = New System.Drawing.Point(182, 130)
         Me.TextBox15.Name = "TextBox15"
-        Me.TextBox15.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox15.Size = New System.Drawing.Size(44, 20)
         Me.TextBox15.TabIndex = 14
         '
         'TextBox16
         '
-        Me.TextBox16.Location = New System.Drawing.Point(202, 218)
-        Me.TextBox16.Multiline = True
+        Me.TextBox16.Location = New System.Drawing.Point(182, 168)
         Me.TextBox16.Name = "TextBox16"
-        Me.TextBox16.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox16.Size = New System.Drawing.Size(44, 20)
         Me.TextBox16.TabIndex = 15
         '
         'TextBox17
         '
-        Me.TextBox17.Location = New System.Drawing.Point(202, 53)
-        Me.TextBox17.Multiline = True
+        Me.TextBox17.Location = New System.Drawing.Point(182, 207)
         Me.TextBox17.Name = "TextBox17"
-        Me.TextBox17.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox17.Size = New System.Drawing.Size(44, 20)
         Me.TextBox17.TabIndex = 16
         '
         'TextBox18
         '
-        Me.TextBox18.Location = New System.Drawing.Point(258, 94)
-        Me.TextBox18.Multiline = True
+        Me.TextBox18.Location = New System.Drawing.Point(258, 53)
         Me.TextBox18.Name = "TextBox18"
-        Me.TextBox18.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox18.Size = New System.Drawing.Size(54, 20)
         Me.TextBox18.TabIndex = 17
         '
         'TextBox19
         '
-        Me.TextBox19.Location = New System.Drawing.Point(258, 136)
-        Me.TextBox19.Multiline = True
+        Me.TextBox19.Location = New System.Drawing.Point(258, 91)
         Me.TextBox19.Name = "TextBox19"
-        Me.TextBox19.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox19.Size = New System.Drawing.Size(54, 20)
         Me.TextBox19.TabIndex = 18
         '
         'TextBox20
         '
-        Me.TextBox20.Location = New System.Drawing.Point(258, 177)
-        Me.TextBox20.Multiline = True
+        Me.TextBox20.Location = New System.Drawing.Point(258, 130)
         Me.TextBox20.Name = "TextBox20"
-        Me.TextBox20.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox20.Size = New System.Drawing.Size(54, 20)
         Me.TextBox20.TabIndex = 19
         '
         'TextBox21
         '
-        Me.TextBox21.Location = New System.Drawing.Point(258, 218)
-        Me.TextBox21.Multiline = True
+        Me.TextBox21.Location = New System.Drawing.Point(258, 168)
         Me.TextBox21.Name = "TextBox21"
-        Me.TextBox21.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox21.Size = New System.Drawing.Size(54, 20)
         Me.TextBox21.TabIndex = 20
         '
         'TextBox22
         '
-        Me.TextBox22.Location = New System.Drawing.Point(314, 53)
-        Me.TextBox22.Multiline = True
+        Me.TextBox22.Location = New System.Drawing.Point(258, 206)
         Me.TextBox22.Name = "TextBox22"
-        Me.TextBox22.Size = New System.Drawing.Size(49, 35)
+        Me.TextBox22.Size = New System.Drawing.Size(54, 20)
         Me.TextBox22.TabIndex = 21
         '
         'TextBox23
         '
-        Me.TextBox23.Location = New System.Drawing.Point(313, 94)
-        Me.TextBox23.Multiline = True
+        Me.TextBox23.Location = New System.Drawing.Point(358, 53)
         Me.TextBox23.Name = "TextBox23"
-        Me.TextBox23.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox23.Size = New System.Drawing.Size(44, 20)
         Me.TextBox23.TabIndex = 22
         '
         'TextBox24
         '
-        Me.TextBox24.Location = New System.Drawing.Point(313, 136)
-        Me.TextBox24.Multiline = True
+        Me.TextBox24.Location = New System.Drawing.Point(358, 92)
         Me.TextBox24.Name = "TextBox24"
-        Me.TextBox24.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox24.Size = New System.Drawing.Size(44, 20)
         Me.TextBox24.TabIndex = 23
         '
         'TextBox25
         '
-        Me.TextBox25.Location = New System.Drawing.Point(314, 177)
-        Me.TextBox25.Multiline = True
+        Me.TextBox25.Location = New System.Drawing.Point(358, 130)
         Me.TextBox25.Name = "TextBox25"
-        Me.TextBox25.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox25.Size = New System.Drawing.Size(44, 20)
         Me.TextBox25.TabIndex = 24
         '
         'TextBox26
         '
-        Me.TextBox26.Location = New System.Drawing.Point(314, 218)
-        Me.TextBox26.Multiline = True
+        Me.TextBox26.Location = New System.Drawing.Point(358, 168)
         Me.TextBox26.Name = "TextBox26"
-        Me.TextBox26.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox26.Size = New System.Drawing.Size(44, 20)
         Me.TextBox26.TabIndex = 25
         '
         'TextBox27
         '
-        Me.TextBox27.Location = New System.Drawing.Point(258, 53)
-        Me.TextBox27.Multiline = True
+        Me.TextBox27.Location = New System.Drawing.Point(358, 206)
         Me.TextBox27.Name = "TextBox27"
-        Me.TextBox27.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox27.Size = New System.Drawing.Size(44, 20)
         Me.TextBox27.TabIndex = 26
         '
         'TextBox28
         '
-        Me.TextBox28.Location = New System.Drawing.Point(369, 94)
-        Me.TextBox28.Multiline = True
+        Me.TextBox28.Location = New System.Drawing.Point(432, 53)
         Me.TextBox28.Name = "TextBox28"
-        Me.TextBox28.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox28.Size = New System.Drawing.Size(45, 20)
         Me.TextBox28.TabIndex = 27
         '
         'TextBox29
         '
-        Me.TextBox29.Location = New System.Drawing.Point(369, 136)
-        Me.TextBox29.Multiline = True
+        Me.TextBox29.Location = New System.Drawing.Point(432, 91)
         Me.TextBox29.Name = "TextBox29"
-        Me.TextBox29.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox29.Size = New System.Drawing.Size(45, 20)
         Me.TextBox29.TabIndex = 28
         '
         'TextBox30
         '
-        Me.TextBox30.Location = New System.Drawing.Point(369, 177)
-        Me.TextBox30.Multiline = True
+        Me.TextBox30.Location = New System.Drawing.Point(432, 130)
         Me.TextBox30.Name = "TextBox30"
-        Me.TextBox30.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox30.Size = New System.Drawing.Size(45, 20)
         Me.TextBox30.TabIndex = 29
         '
         'TextBox31
         '
-        Me.TextBox31.Location = New System.Drawing.Point(369, 218)
-        Me.TextBox31.Multiline = True
+        Me.TextBox31.Location = New System.Drawing.Point(432, 168)
         Me.TextBox31.Name = "TextBox31"
-        Me.TextBox31.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox31.Size = New System.Drawing.Size(45, 20)
         Me.TextBox31.TabIndex = 30
         '
         'TextBox32
         '
-        Me.TextBox32.Location = New System.Drawing.Point(369, 53)
-        Me.TextBox32.Multiline = True
+        Me.TextBox32.Location = New System.Drawing.Point(432, 207)
         Me.TextBox32.Name = "TextBox32"
-        Me.TextBox32.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox32.Size = New System.Drawing.Size(45, 20)
         Me.TextBox32.TabIndex = 31
         '
         'TextBox33
         '
-        Me.TextBox33.Location = New System.Drawing.Point(425, 53)
-        Me.TextBox33.Multiline = True
+        Me.TextBox33.Location = New System.Drawing.Point(509, 53)
         Me.TextBox33.Name = "TextBox33"
-        Me.TextBox33.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox33.Size = New System.Drawing.Size(47, 20)
         Me.TextBox33.TabIndex = 32
         '
         'TextBox34
         '
-        Me.TextBox34.Location = New System.Drawing.Point(425, 94)
-        Me.TextBox34.Multiline = True
+        Me.TextBox34.Location = New System.Drawing.Point(509, 91)
         Me.TextBox34.Name = "TextBox34"
-        Me.TextBox34.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox34.Size = New System.Drawing.Size(47, 20)
         Me.TextBox34.TabIndex = 33
         '
         'TextBox35
         '
-        Me.TextBox35.Location = New System.Drawing.Point(425, 136)
-        Me.TextBox35.Multiline = True
+        Me.TextBox35.Location = New System.Drawing.Point(509, 130)
         Me.TextBox35.Name = "TextBox35"
-        Me.TextBox35.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox35.Size = New System.Drawing.Size(47, 20)
         Me.TextBox35.TabIndex = 34
         '
         'TextBox36
         '
-        Me.TextBox36.Location = New System.Drawing.Point(425, 177)
-        Me.TextBox36.Multiline = True
+        Me.TextBox36.Location = New System.Drawing.Point(509, 168)
         Me.TextBox36.Name = "TextBox36"
-        Me.TextBox36.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox36.Size = New System.Drawing.Size(47, 20)
         Me.TextBox36.TabIndex = 35
         '
         'TextBox37
         '
-        Me.TextBox37.Location = New System.Drawing.Point(425, 218)
-        Me.TextBox37.Multiline = True
+        Me.TextBox37.Location = New System.Drawing.Point(509, 206)
         Me.TextBox37.Name = "TextBox37"
-        Me.TextBox37.Size = New System.Drawing.Size(50, 35)
+        Me.TextBox37.Size = New System.Drawing.Size(47, 20)
         Me.TextBox37.TabIndex = 36
         '
         'TextBox38
         '
-        Me.TextBox38.Location = New System.Drawing.Point(481, 53)
-        Me.TextBox38.Multiline = True
+        Me.TextBox38.Location = New System.Drawing.Point(592, 53)
         Me.TextBox38.Name = "TextBox38"
-        Me.TextBox38.Size = New System.Drawing.Size(133, 35)
+        Me.TextBox38.Size = New System.Drawing.Size(65, 20)
         Me.TextBox38.TabIndex = 37
         '
         'TextBox39
         '
-        Me.TextBox39.Location = New System.Drawing.Point(481, 94)
-        Me.TextBox39.Multiline = True
+        Me.TextBox39.Location = New System.Drawing.Point(592, 92)
         Me.TextBox39.Name = "TextBox39"
-        Me.TextBox39.Size = New System.Drawing.Size(133, 35)
+        Me.TextBox39.Size = New System.Drawing.Size(65, 20)
         Me.TextBox39.TabIndex = 38
         '
         'TextBox40
         '
-        Me.TextBox40.Location = New System.Drawing.Point(481, 136)
-        Me.TextBox40.Multiline = True
+        Me.TextBox40.Location = New System.Drawing.Point(592, 130)
         Me.TextBox40.Name = "TextBox40"
-        Me.TextBox40.Size = New System.Drawing.Size(133, 35)
+        Me.TextBox40.Size = New System.Drawing.Size(65, 20)
         Me.TextBox40.TabIndex = 39
         '
         'TextBox41
         '
-        Me.TextBox41.Location = New System.Drawing.Point(481, 177)
-        Me.TextBox41.Multiline = True
+        Me.TextBox41.Location = New System.Drawing.Point(592, 168)
         Me.TextBox41.Name = "TextBox41"
-        Me.TextBox41.Size = New System.Drawing.Size(133, 35)
+        Me.TextBox41.Size = New System.Drawing.Size(65, 20)
         Me.TextBox41.TabIndex = 40
         '
         'TextBox42
         '
-        Me.TextBox42.Location = New System.Drawing.Point(481, 218)
-        Me.TextBox42.Multiline = True
+        Me.TextBox42.Location = New System.Drawing.Point(592, 206)
         Me.TextBox42.Name = "TextBox42"
-        Me.TextBox42.Size = New System.Drawing.Size(133, 35)
+        Me.TextBox42.Size = New System.Drawing.Size(65, 20)
         Me.TextBox42.TabIndex = 41
         '
         'TextBox43
         '
-        Me.TextBox43.BackColor = System.Drawing.SystemColors.Info
-        Me.TextBox43.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox43.Location = New System.Drawing.Point(12, 316)
-        Me.TextBox43.Multiline = True
+        Me.TextBox43.Location = New System.Drawing.Point(212, 253)
         Me.TextBox43.Name = "TextBox43"
-        Me.TextBox43.RightToLeft = System.Windows.Forms.RightToLeft.No
-        Me.TextBox43.Size = New System.Drawing.Size(128, 33)
+        Me.TextBox43.Size = New System.Drawing.Size(100, 20)
         Me.TextBox43.TabIndex = 42
-        Me.TextBox43.Text = "COMING NEXT"
-        Me.TextBox43.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        Me.TextBox43.Text = "Coming up"
         '
         'TextBox44
         '
-        Me.TextBox44.BackColor = System.Drawing.SystemColors.Info
-        Me.TextBox44.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox44.Location = New System.Drawing.Point(182, 316)
-        Me.TextBox44.Multiline = True
+        Me.TextBox44.Location = New System.Drawing.Point(358, 253)
         Me.TextBox44.Name = "TextBox44"
-        Me.TextBox44.Size = New System.Drawing.Size(330, 33)
+        Me.TextBox44.Size = New System.Drawing.Size(299, 20)
         Me.TextBox44.TabIndex = 43
         '
         'Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackColor = System.Drawing.SystemColors.ButtonFace
-        Me.ClientSize = New System.Drawing.Size(715, 372)
+        Me.BackColor = System.Drawing.SystemColors.ActiveCaptionText
+        Me.ClientSize = New System.Drawing.Size(1008, 729)
         Me.Controls.Add(Me.TextBox44)
         Me.Controls.Add(Me.TextBox43)
         Me.Controls.Add(Me.TextBox42)
