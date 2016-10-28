@@ -442,7 +442,7 @@ Partial Class Form1
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.ClientSize = New System.Drawing.Size(601, 319)
+        Me.ClientSize = New System.Drawing.Size(688, 403)
         Me.Controls.Add(Me.TextBox3)
         Me.Controls.Add(Me.TextBox44)
         Me.Controls.Add(Me.TextBox43)
