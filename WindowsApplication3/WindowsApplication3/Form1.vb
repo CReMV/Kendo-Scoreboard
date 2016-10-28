@@ -14,14 +14,18 @@
         Form2.TextBox41.Text = TextBox41.Text
         Form2.TextBox42.Text = TextBox42.Text
         Form2.TextBox44.Text = TextBox44.Text
+        Form2.TextBox8.Text = ComboBox1.Text
+    End Sub
+
+    Private Sub ListBox1_SelectedIndexChanged(sender As Object, e As EventArgs)
 
     End Sub
 
-    Private Sub TextBox33_TextChanged(sender As Object, e As EventArgs) Handles TextBox33.TextChanged
+    Private Sub TextBox35_TextChanged(sender As Object, e As EventArgs) Handles TextBox35.TextChanged
 
     End Sub
 
-    Private Sub ComboBox2_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ComboBox2.SelectedIndexChanged
+    Private Sub TextBox37_TextChanged(sender As Object, e As EventArgs) Handles TextBox37.TextChanged
 
     End Sub
 

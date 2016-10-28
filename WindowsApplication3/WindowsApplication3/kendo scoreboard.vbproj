@@ -79,11 +79,11 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="..\Form2.Designer.vb">
+    <Compile Include="..\..\..\..\..\Desktop\Form2.Designer.vb">
       <DependentUpon>Form2.vb</DependentUpon>
       <Link>Form2.Designer.vb</Link>
     </Compile>
-    <Compile Include="..\Form2.vb">
+    <Compile Include="..\..\..\..\..\Desktop\Form2.vb">
       <SubType>Form</SubType>
       <Link>Form2.vb</Link>
     </Compile>
@@ -107,7 +107,7 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="..\Form2.resx">
+    <EmbeddedResource Include="..\..\..\..\..\Desktop\Form2.resx">
       <DependentUpon>Form2.vb</DependentUpon>
       <Link>Form2.resx</Link>
     </EmbeddedResource>
