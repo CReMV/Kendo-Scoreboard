@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Form1
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class Form1
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.TextBox2 = New System.Windows.Forms.TextBox()
@@ -67,7 +67,7 @@ Partial Class Form1
         Me.Button2 = New System.Windows.Forms.Button()
         Me.TextBox43 = New System.Windows.Forms.TextBox()
         Me.TextBox44 = New System.Windows.Forms.TextBox()
-        Me.Button3 = New System.Windows.Forms.Button()
+        Me.TextBox3 = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'TextBox1
@@ -429,14 +429,13 @@ Partial Class Form1
         Me.TextBox44.Size = New System.Drawing.Size(292, 20)
         Me.TextBox44.TabIndex = 45
         '
-        'Button3
+        'TextBox3
         '
-        Me.Button3.Location = New System.Drawing.Point(104, 58)
-        Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(45, 23)
-        Me.Button3.TabIndex = 46
-        Me.Button3.Text = "Μ"
-        Me.Button3.UseVisualStyleBackColor = True
+        Me.TextBox3.Location = New System.Drawing.Point(112, 62)
+        Me.TextBox3.Name = "TextBox3"
+        Me.TextBox3.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox3.TabIndex = 46
+        Me.TextBox3.Text = "M"
         '
         'Form1
         '
@@ -444,7 +443,7 @@ Partial Class Form1
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ActiveCaptionText
         Me.ClientSize = New System.Drawing.Size(601, 319)
-        Me.Controls.Add(Me.Button3)
+        Me.Controls.Add(Me.TextBox3)
         Me.Controls.Add(Me.TextBox44)
         Me.Controls.Add(Me.TextBox43)
         Me.Controls.Add(Me.Button2)
@@ -542,5 +541,5 @@ Partial Class Form1
     Friend WithEvents Button2 As Button
     Friend WithEvents TextBox43 As TextBox
     Friend WithEvents TextBox44 As TextBox
-    Friend WithEvents Button3 As Button
+    Friend WithEvents TextBox3 As TextBox
 End Class
