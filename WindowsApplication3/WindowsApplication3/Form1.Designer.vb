@@ -24,6 +24,35 @@ Partial Class Form1
     Private Sub InitializeComponent()
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.TextBox2 = New System.Windows.Forms.TextBox()
+        Me.TextBox4 = New System.Windows.Forms.TextBox()
+        Me.TextBox5 = New System.Windows.Forms.TextBox()
+        Me.TextBox6 = New System.Windows.Forms.TextBox()
+        Me.TextBox7 = New System.Windows.Forms.TextBox()
+        Me.TextBox8 = New System.Windows.Forms.TextBox()
+        Me.TextBox9 = New System.Windows.Forms.TextBox()
+        Me.TextBox10 = New System.Windows.Forms.TextBox()
+        Me.TextBox11 = New System.Windows.Forms.TextBox()
+        Me.TextBox12 = New System.Windows.Forms.TextBox()
+        Me.TextBox13 = New System.Windows.Forms.TextBox()
+        Me.TextBox14 = New System.Windows.Forms.TextBox()
+        Me.TextBox15 = New System.Windows.Forms.TextBox()
+        Me.TextBox16 = New System.Windows.Forms.TextBox()
+        Me.TextBox17 = New System.Windows.Forms.TextBox()
+        Me.TextBox18 = New System.Windows.Forms.TextBox()
+        Me.TextBox19 = New System.Windows.Forms.TextBox()
+        Me.TextBox20 = New System.Windows.Forms.TextBox()
+        Me.TextBox21 = New System.Windows.Forms.TextBox()
+        Me.TextBox22 = New System.Windows.Forms.TextBox()
+        Me.TextBox23 = New System.Windows.Forms.TextBox()
+        Me.TextBox24 = New System.Windows.Forms.TextBox()
+        Me.TextBox25 = New System.Windows.Forms.TextBox()
+        Me.TextBox26 = New System.Windows.Forms.TextBox()
+        Me.TextBox27 = New System.Windows.Forms.TextBox()
+        Me.TextBox28 = New System.Windows.Forms.TextBox()
+        Me.TextBox29 = New System.Windows.Forms.TextBox()
+        Me.TextBox30 = New System.Windows.Forms.TextBox()
+        Me.TextBox31 = New System.Windows.Forms.TextBox()
+        Me.TextBox32 = New System.Windows.Forms.TextBox()
         Me.TextBox33 = New System.Windows.Forms.TextBox()
         Me.TextBox34 = New System.Windows.Forms.TextBox()
         Me.TextBox35 = New System.Windows.Forms.TextBox()
@@ -38,149 +67,338 @@ Partial Class Form1
         Me.Button2 = New System.Windows.Forms.Button()
         Me.TextBox43 = New System.Windows.Forms.TextBox()
         Me.TextBox44 = New System.Windows.Forms.TextBox()
-        Me.ComboBox1 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox2 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox3 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox4 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox5 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox6 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox7 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox8 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox9 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox10 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox11 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox12 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox13 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox14 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox15 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox16 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox17 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox18 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox19 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox20 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox21 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox22 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox23 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox24 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox25 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox26 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox27 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox28 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox29 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox30 = New System.Windows.Forms.ComboBox()
+        Me.TextBox3 = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'TextBox1
         '
         Me.TextBox1.Location = New System.Drawing.Point(22, 12)
-        Me.TextBox1.Multiline = True
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(280, 45)
+        Me.TextBox1.Size = New System.Drawing.Size(262, 20)
         Me.TextBox1.TabIndex = 0
         Me.TextBox1.Text = "Team"
         '
         'TextBox2
         '
-        Me.TextBox2.Location = New System.Drawing.Point(396, 12)
-        Me.TextBox2.Multiline = True
+        Me.TextBox2.Location = New System.Drawing.Point(303, 12)
         Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(280, 45)
+        Me.TextBox2.Size = New System.Drawing.Size(286, 20)
         Me.TextBox2.TabIndex = 1
         Me.TextBox2.Text = "Team"
         '
+        'TextBox4
+        '
+        Me.TextBox4.Location = New System.Drawing.Point(112, 103)
+        Me.TextBox4.Name = "TextBox4"
+        Me.TextBox4.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox4.TabIndex = 3
+        Me.TextBox4.Text = "M"
+        '
+        'TextBox5
+        '
+        Me.TextBox5.Location = New System.Drawing.Point(112, 146)
+        Me.TextBox5.Name = "TextBox5"
+        Me.TextBox5.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox5.TabIndex = 4
+        Me.TextBox5.Text = "M"
+        '
+        'TextBox6
+        '
+        Me.TextBox6.Location = New System.Drawing.Point(112, 196)
+        Me.TextBox6.Name = "TextBox6"
+        Me.TextBox6.Size = New System.Drawing.Size(36, 20)
+        Me.TextBox6.TabIndex = 5
+        Me.TextBox6.Text = "M"
+        '
+        'TextBox7
+        '
+        Me.TextBox7.Location = New System.Drawing.Point(112, 241)
+        Me.TextBox7.Name = "TextBox7"
+        Me.TextBox7.Size = New System.Drawing.Size(37, 20)
+        Me.TextBox7.TabIndex = 6
+        Me.TextBox7.Text = "M"
+        '
+        'TextBox8
+        '
+        Me.TextBox8.Location = New System.Drawing.Point(303, 62)
+        Me.TextBox8.Name = "TextBox8"
+        Me.TextBox8.Size = New System.Drawing.Size(44, 20)
+        Me.TextBox8.TabIndex = 7
+        Me.TextBox8.Text = "K"
+        '
+        'TextBox9
+        '
+        Me.TextBox9.Location = New System.Drawing.Point(303, 103)
+        Me.TextBox9.Name = "TextBox9"
+        Me.TextBox9.Size = New System.Drawing.Size(44, 20)
+        Me.TextBox9.TabIndex = 8
+        Me.TextBox9.Text = "M"
+        '
+        'TextBox10
+        '
+        Me.TextBox10.Location = New System.Drawing.Point(303, 146)
+        Me.TextBox10.Name = "TextBox10"
+        Me.TextBox10.Size = New System.Drawing.Size(44, 20)
+        Me.TextBox10.TabIndex = 9
+        Me.TextBox10.Text = "M"
+        '
+        'TextBox11
+        '
+        Me.TextBox11.Location = New System.Drawing.Point(303, 195)
+        Me.TextBox11.Name = "TextBox11"
+        Me.TextBox11.Size = New System.Drawing.Size(44, 20)
+        Me.TextBox11.TabIndex = 10
+        Me.TextBox11.Text = "M"
+        '
+        'TextBox12
+        '
+        Me.TextBox12.Location = New System.Drawing.Point(303, 241)
+        Me.TextBox12.Name = "TextBox12"
+        Me.TextBox12.Size = New System.Drawing.Size(44, 20)
+        Me.TextBox12.TabIndex = 11
+        Me.TextBox12.Text = "M"
+        '
+        'TextBox13
+        '
+        Me.TextBox13.Location = New System.Drawing.Point(175, 61)
+        Me.TextBox13.Name = "TextBox13"
+        Me.TextBox13.Size = New System.Drawing.Size(40, 20)
+        Me.TextBox13.TabIndex = 12
+        Me.TextBox13.Text = "K"
+        '
+        'TextBox14
+        '
+        Me.TextBox14.Location = New System.Drawing.Point(246, 62)
+        Me.TextBox14.Name = "TextBox14"
+        Me.TextBox14.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox14.TabIndex = 13
+        Me.TextBox14.Text = "X"
+        '
+        'TextBox15
+        '
+        Me.TextBox15.Location = New System.Drawing.Point(175, 103)
+        Me.TextBox15.Name = "TextBox15"
+        Me.TextBox15.Size = New System.Drawing.Size(40, 20)
+        Me.TextBox15.TabIndex = 14
+        Me.TextBox15.Text = "M"
+        '
+        'TextBox16
+        '
+        Me.TextBox16.Location = New System.Drawing.Point(175, 146)
+        Me.TextBox16.Name = "TextBox16"
+        Me.TextBox16.Size = New System.Drawing.Size(40, 20)
+        Me.TextBox16.TabIndex = 15
+        Me.TextBox16.Text = "M"
+        '
+        'TextBox17
+        '
+        Me.TextBox17.Location = New System.Drawing.Point(175, 196)
+        Me.TextBox17.Name = "TextBox17"
+        Me.TextBox17.Size = New System.Drawing.Size(40, 20)
+        Me.TextBox17.TabIndex = 16
+        Me.TextBox17.Text = "M"
+        '
+        'TextBox18
+        '
+        Me.TextBox18.Location = New System.Drawing.Point(175, 241)
+        Me.TextBox18.Name = "TextBox18"
+        Me.TextBox18.Size = New System.Drawing.Size(40, 20)
+        Me.TextBox18.TabIndex = 17
+        Me.TextBox18.Text = "M"
+        '
+        'TextBox19
+        '
+        Me.TextBox19.Location = New System.Drawing.Point(246, 103)
+        Me.TextBox19.Name = "TextBox19"
+        Me.TextBox19.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox19.TabIndex = 18
+        '
+        'TextBox20
+        '
+        Me.TextBox20.Location = New System.Drawing.Point(246, 146)
+        Me.TextBox20.Name = "TextBox20"
+        Me.TextBox20.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox20.TabIndex = 19
+        Me.TextBox20.Text = "M"
+        '
+        'TextBox21
+        '
+        Me.TextBox21.Location = New System.Drawing.Point(246, 195)
+        Me.TextBox21.Name = "TextBox21"
+        Me.TextBox21.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox21.TabIndex = 20
+        Me.TextBox21.Text = "M"
+        '
+        'TextBox22
+        '
+        Me.TextBox22.Location = New System.Drawing.Point(246, 241)
+        Me.TextBox22.Name = "TextBox22"
+        Me.TextBox22.Size = New System.Drawing.Size(38, 20)
+        Me.TextBox22.TabIndex = 21
+        Me.TextBox22.Text = "M"
+        '
+        'TextBox23
+        '
+        Me.TextBox23.Location = New System.Drawing.Point(376, 62)
+        Me.TextBox23.Name = "TextBox23"
+        Me.TextBox23.Size = New System.Drawing.Size(50, 20)
+        Me.TextBox23.TabIndex = 22
+        Me.TextBox23.Text = "K"
+        '
+        'TextBox24
+        '
+        Me.TextBox24.Location = New System.Drawing.Point(376, 104)
+        Me.TextBox24.Name = "TextBox24"
+        Me.TextBox24.Size = New System.Drawing.Size(50, 20)
+        Me.TextBox24.TabIndex = 23
+        Me.TextBox24.Text = "M"
+        '
+        'TextBox25
+        '
+        Me.TextBox25.Location = New System.Drawing.Point(376, 146)
+        Me.TextBox25.Name = "TextBox25"
+        Me.TextBox25.Size = New System.Drawing.Size(50, 20)
+        Me.TextBox25.TabIndex = 24
+        Me.TextBox25.Text = "M"
+        '
+        'TextBox26
+        '
+        Me.TextBox26.Location = New System.Drawing.Point(376, 196)
+        Me.TextBox26.Name = "TextBox26"
+        Me.TextBox26.Size = New System.Drawing.Size(50, 20)
+        Me.TextBox26.TabIndex = 25
+        Me.TextBox26.Text = "M"
+        '
+        'TextBox27
+        '
+        Me.TextBox27.Location = New System.Drawing.Point(376, 242)
+        Me.TextBox27.Name = "TextBox27"
+        Me.TextBox27.Size = New System.Drawing.Size(50, 20)
+        Me.TextBox27.TabIndex = 26
+        Me.TextBox27.Text = "M"
+        '
+        'TextBox28
+        '
+        Me.TextBox28.Location = New System.Drawing.Point(459, 61)
+        Me.TextBox28.Name = "TextBox28"
+        Me.TextBox28.Size = New System.Drawing.Size(55, 20)
+        Me.TextBox28.TabIndex = 27
+        Me.TextBox28.Text = "X"
+        '
+        'TextBox29
+        '
+        Me.TextBox29.Location = New System.Drawing.Point(459, 103)
+        Me.TextBox29.Name = "TextBox29"
+        Me.TextBox29.Size = New System.Drawing.Size(55, 20)
+        Me.TextBox29.TabIndex = 28
+        '
+        'TextBox30
+        '
+        Me.TextBox30.Location = New System.Drawing.Point(459, 146)
+        Me.TextBox30.Name = "TextBox30"
+        Me.TextBox30.Size = New System.Drawing.Size(55, 20)
+        Me.TextBox30.TabIndex = 29
+        Me.TextBox30.Text = "M"
+        '
+        'TextBox31
+        '
+        Me.TextBox31.Location = New System.Drawing.Point(459, 195)
+        Me.TextBox31.Name = "TextBox31"
+        Me.TextBox31.Size = New System.Drawing.Size(55, 20)
+        Me.TextBox31.TabIndex = 30
+        Me.TextBox31.Text = "M"
+        '
+        'TextBox32
+        '
+        Me.TextBox32.Location = New System.Drawing.Point(459, 241)
+        Me.TextBox32.Name = "TextBox32"
+        Me.TextBox32.Size = New System.Drawing.Size(55, 20)
+        Me.TextBox32.TabIndex = 31
+        Me.TextBox32.Text = "M"
+        '
         'TextBox33
         '
-        Me.TextBox33.Location = New System.Drawing.Point(22, 72)
-        Me.TextBox33.Multiline = True
+        Me.TextBox33.Location = New System.Drawing.Point(22, 61)
         Me.TextBox33.Name = "TextBox33"
-        Me.TextBox33.Size = New System.Drawing.Size(124, 21)
+        Me.TextBox33.Size = New System.Drawing.Size(69, 20)
         Me.TextBox33.TabIndex = 32
         Me.TextBox33.Text = "Player"
         '
         'TextBox34
         '
-        Me.TextBox34.Location = New System.Drawing.Point(20, 120)
-        Me.TextBox34.Multiline = True
+        Me.TextBox34.Location = New System.Drawing.Point(22, 103)
         Me.TextBox34.Name = "TextBox34"
-        Me.TextBox34.Size = New System.Drawing.Size(126, 21)
+        Me.TextBox34.Size = New System.Drawing.Size(69, 20)
         Me.TextBox34.TabIndex = 33
         Me.TextBox34.Text = "Player"
         '
         'TextBox35
         '
-        Me.TextBox35.Location = New System.Drawing.Point(20, 168)
-        Me.TextBox35.Multiline = True
+        Me.TextBox35.Location = New System.Drawing.Point(22, 147)
         Me.TextBox35.Name = "TextBox35"
-        Me.TextBox35.Size = New System.Drawing.Size(126, 21)
+        Me.TextBox35.Size = New System.Drawing.Size(69, 20)
         Me.TextBox35.TabIndex = 34
         Me.TextBox35.Text = "Player"
         '
         'TextBox36
         '
-        Me.TextBox36.Location = New System.Drawing.Point(20, 257)
-        Me.TextBox36.Multiline = True
+        Me.TextBox36.Location = New System.Drawing.Point(22, 195)
         Me.TextBox36.Name = "TextBox36"
-        Me.TextBox36.Size = New System.Drawing.Size(125, 21)
+        Me.TextBox36.Size = New System.Drawing.Size(69, 20)
         Me.TextBox36.TabIndex = 35
         Me.TextBox36.Text = "Player"
         '
         'TextBox37
         '
-        Me.TextBox37.Location = New System.Drawing.Point(20, 210)
-        Me.TextBox37.Multiline = True
+        Me.TextBox37.Location = New System.Drawing.Point(22, 242)
         Me.TextBox37.Name = "TextBox37"
-        Me.TextBox37.Size = New System.Drawing.Size(125, 21)
+        Me.TextBox37.Size = New System.Drawing.Size(67, 20)
         Me.TextBox37.TabIndex = 36
         Me.TextBox37.Text = "Player"
         '
         'TextBox38
         '
-        Me.TextBox38.Location = New System.Drawing.Point(554, 72)
-        Me.TextBox38.Multiline = True
+        Me.TextBox38.Location = New System.Drawing.Point(535, 62)
         Me.TextBox38.Name = "TextBox38"
-        Me.TextBox38.Size = New System.Drawing.Size(122, 21)
+        Me.TextBox38.Size = New System.Drawing.Size(60, 20)
         Me.TextBox38.TabIndex = 37
         Me.TextBox38.Text = "Player"
         '
         'TextBox39
         '
-        Me.TextBox39.Location = New System.Drawing.Point(554, 120)
-        Me.TextBox39.Multiline = True
+        Me.TextBox39.Location = New System.Drawing.Point(535, 104)
         Me.TextBox39.Name = "TextBox39"
-        Me.TextBox39.Size = New System.Drawing.Size(122, 21)
+        Me.TextBox39.Size = New System.Drawing.Size(60, 20)
         Me.TextBox39.TabIndex = 38
         Me.TextBox39.Text = "Player"
         '
         'TextBox40
         '
-        Me.TextBox40.Location = New System.Drawing.Point(554, 168)
-        Me.TextBox40.Multiline = True
+        Me.TextBox40.Location = New System.Drawing.Point(535, 147)
         Me.TextBox40.Name = "TextBox40"
-        Me.TextBox40.Size = New System.Drawing.Size(122, 21)
+        Me.TextBox40.Size = New System.Drawing.Size(60, 20)
         Me.TextBox40.TabIndex = 39
         Me.TextBox40.Text = "Player"
         '
         'TextBox41
         '
-        Me.TextBox41.Location = New System.Drawing.Point(554, 210)
-        Me.TextBox41.Multiline = True
+        Me.TextBox41.Location = New System.Drawing.Point(535, 195)
         Me.TextBox41.Name = "TextBox41"
-        Me.TextBox41.Size = New System.Drawing.Size(122, 21)
+        Me.TextBox41.Size = New System.Drawing.Size(60, 20)
         Me.TextBox41.TabIndex = 40
         Me.TextBox41.Text = "Player"
         '
         'TextBox42
         '
-        Me.TextBox42.Location = New System.Drawing.Point(554, 257)
-        Me.TextBox42.Multiline = True
+        Me.TextBox42.Location = New System.Drawing.Point(535, 241)
         Me.TextBox42.Name = "TextBox42"
-        Me.TextBox42.Size = New System.Drawing.Size(122, 21)
+        Me.TextBox42.Size = New System.Drawing.Size(60, 20)
         Me.TextBox42.TabIndex = 41
         Me.TextBox42.Text = "Player"
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(22, 368)
+        Me.Button1.Location = New System.Drawing.Point(22, 269)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 23)
         Me.Button1.TabIndex = 42
@@ -189,7 +407,7 @@ Partial Class Form1
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(123, 368)
+        Me.Button2.Location = New System.Drawing.Point(103, 269)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(75, 23)
         Me.Button2.TabIndex = 43
@@ -198,324 +416,34 @@ Partial Class Form1
         '
         'TextBox43
         '
-        Me.TextBox43.Location = New System.Drawing.Point(308, 371)
+        Me.TextBox43.Location = New System.Drawing.Point(184, 269)
         Me.TextBox43.Name = "TextBox43"
-        Me.TextBox43.Size = New System.Drawing.Size(82, 20)
+        Me.TextBox43.Size = New System.Drawing.Size(100, 20)
         Me.TextBox43.TabIndex = 44
         Me.TextBox43.Text = "Coming up"
         '
         'TextBox44
         '
-        Me.TextBox44.Location = New System.Drawing.Point(396, 371)
+        Me.TextBox44.Location = New System.Drawing.Point(303, 269)
         Me.TextBox44.Name = "TextBox44"
-        Me.TextBox44.Size = New System.Drawing.Size(280, 20)
+        Me.TextBox44.Size = New System.Drawing.Size(292, 20)
         Me.TextBox44.TabIndex = 45
         '
-        'ComboBox1
+        'TextBox3
         '
-        Me.ComboBox1.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox1.Location = New System.Drawing.Point(153, 72)
-        Me.ComboBox1.Name = "ComboBox1"
-        Me.ComboBox1.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox1.TabIndex = 46
-        '
-        'ComboBox2
-        '
-        Me.ComboBox2.FormattingEnabled = True
-        Me.ComboBox2.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox2.Location = New System.Drawing.Point(153, 120)
-        Me.ComboBox2.Name = "ComboBox2"
-        Me.ComboBox2.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox2.TabIndex = 47
-        '
-        'ComboBox3
-        '
-        Me.ComboBox3.FormattingEnabled = True
-        Me.ComboBox3.Items.AddRange(New Object() {"M", "K", "D", "T", "▲", ""})
-        Me.ComboBox3.Location = New System.Drawing.Point(204, 168)
-        Me.ComboBox3.Name = "ComboBox3"
-        Me.ComboBox3.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox3.TabIndex = 48
-        '
-        'ComboBox4
-        '
-        Me.ComboBox4.FormattingEnabled = True
-        Me.ComboBox4.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox4.Location = New System.Drawing.Point(204, 210)
-        Me.ComboBox4.Name = "ComboBox4"
-        Me.ComboBox4.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox4.TabIndex = 49
-        '
-        'ComboBox5
-        '
-        Me.ComboBox5.FormattingEnabled = True
-        Me.ComboBox5.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox5.Location = New System.Drawing.Point(204, 257)
-        Me.ComboBox5.Name = "ComboBox5"
-        Me.ComboBox5.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox5.TabIndex = 50
-        '
-        'ComboBox6
-        '
-        Me.ComboBox6.FormattingEnabled = True
-        Me.ComboBox6.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox6.Location = New System.Drawing.Point(153, 257)
-        Me.ComboBox6.Name = "ComboBox6"
-        Me.ComboBox6.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox6.TabIndex = 51
-        '
-        'ComboBox7
-        '
-        Me.ComboBox7.FormattingEnabled = True
-        Me.ComboBox7.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox7.Location = New System.Drawing.Point(204, 72)
-        Me.ComboBox7.Name = "ComboBox7"
-        Me.ComboBox7.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox7.TabIndex = 52
-        '
-        'ComboBox8
-        '
-        Me.ComboBox8.FormattingEnabled = True
-        Me.ComboBox8.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox8.Location = New System.Drawing.Point(204, 120)
-        Me.ComboBox8.Name = "ComboBox8"
-        Me.ComboBox8.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox8.TabIndex = 53
-        '
-        'ComboBox9
-        '
-        Me.ComboBox9.FormattingEnabled = True
-        Me.ComboBox9.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox9.Location = New System.Drawing.Point(153, 168)
-        Me.ComboBox9.Name = "ComboBox9"
-        Me.ComboBox9.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox9.TabIndex = 54
-        '
-        'ComboBox10
-        '
-        Me.ComboBox10.FormattingEnabled = True
-        Me.ComboBox10.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox10.Location = New System.Drawing.Point(153, 210)
-        Me.ComboBox10.Name = "ComboBox10"
-        Me.ComboBox10.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox10.TabIndex = 55
-        '
-        'ComboBox11
-        '
-        Me.ComboBox11.FormattingEnabled = True
-        Me.ComboBox11.Items.AddRange(New Object() {"M", "K", "D", "T", "▲", "▬"})
-        Me.ComboBox11.Location = New System.Drawing.Point(257, 257)
-        Me.ComboBox11.Name = "ComboBox11"
-        Me.ComboBox11.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox11.TabIndex = 56
-        '
-        'ComboBox12
-        '
-        Me.ComboBox12.FormattingEnabled = True
-        Me.ComboBox12.Items.AddRange(New Object() {"M", "K", "D", "T", "▲", "▬"})
-        Me.ComboBox12.Location = New System.Drawing.Point(257, 73)
-        Me.ComboBox12.Name = "ComboBox12"
-        Me.ComboBox12.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox12.TabIndex = 57
-        '
-        'ComboBox13
-        '
-        Me.ComboBox13.FormattingEnabled = True
-        Me.ComboBox13.Items.AddRange(New Object() {"M", "K", "D", "T", "▲", "▬"})
-        Me.ComboBox13.Location = New System.Drawing.Point(257, 120)
-        Me.ComboBox13.Name = "ComboBox13"
-        Me.ComboBox13.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox13.TabIndex = 58
-        '
-        'ComboBox14
-        '
-        Me.ComboBox14.FormattingEnabled = True
-        Me.ComboBox14.Items.AddRange(New Object() {"M", "K", "D", "T", "▲", "▬"})
-        Me.ComboBox14.Location = New System.Drawing.Point(257, 168)
-        Me.ComboBox14.Name = "ComboBox14"
-        Me.ComboBox14.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox14.TabIndex = 59
-        '
-        'ComboBox15
-        '
-        Me.ComboBox15.FormattingEnabled = True
-        Me.ComboBox15.Items.AddRange(New Object() {"M", "K", "D", "T", "▲", "▬"})
-        Me.ComboBox15.Location = New System.Drawing.Point(257, 210)
-        Me.ComboBox15.Name = "ComboBox15"
-        Me.ComboBox15.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox15.TabIndex = 60
-        '
-        'ComboBox16
-        '
-        Me.ComboBox16.FormattingEnabled = True
-        Me.ComboBox16.Items.AddRange(New Object() {"M", "K", "D", "T", "▲", "▬"})
-        Me.ComboBox16.Location = New System.Drawing.Point(396, 257)
-        Me.ComboBox16.Name = "ComboBox16"
-        Me.ComboBox16.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox16.TabIndex = 61
-        '
-        'ComboBox17
-        '
-        Me.ComboBox17.FormattingEnabled = True
-        Me.ComboBox17.Items.AddRange(New Object() {"M", "K", "D", "T", "▲", "▬"})
-        Me.ComboBox17.Location = New System.Drawing.Point(396, 73)
-        Me.ComboBox17.Name = "ComboBox17"
-        Me.ComboBox17.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox17.TabIndex = 62
-        '
-        'ComboBox18
-        '
-        Me.ComboBox18.FormattingEnabled = True
-        Me.ComboBox18.Items.AddRange(New Object() {"M", "K", "D", "T", "▲", "▬"})
-        Me.ComboBox18.Location = New System.Drawing.Point(396, 120)
-        Me.ComboBox18.Name = "ComboBox18"
-        Me.ComboBox18.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox18.TabIndex = 63
-        '
-        'ComboBox19
-        '
-        Me.ComboBox19.FormattingEnabled = True
-        Me.ComboBox19.Items.AddRange(New Object() {"M", "K", "D", "T", "▲", "▬"})
-        Me.ComboBox19.Location = New System.Drawing.Point(396, 168)
-        Me.ComboBox19.Name = "ComboBox19"
-        Me.ComboBox19.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox19.TabIndex = 64
-        '
-        'ComboBox20
-        '
-        Me.ComboBox20.FormattingEnabled = True
-        Me.ComboBox20.Items.AddRange(New Object() {"M", "K", "D", "T", "▲", "▬"})
-        Me.ComboBox20.Location = New System.Drawing.Point(396, 210)
-        Me.ComboBox20.Name = "ComboBox20"
-        Me.ComboBox20.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox20.TabIndex = 65
-        '
-        'ComboBox21
-        '
-        Me.ComboBox21.FormattingEnabled = True
-        Me.ComboBox21.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox21.Location = New System.Drawing.Point(452, 257)
-        Me.ComboBox21.Name = "ComboBox21"
-        Me.ComboBox21.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox21.TabIndex = 66
-        '
-        'ComboBox22
-        '
-        Me.ComboBox22.FormattingEnabled = True
-        Me.ComboBox22.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox22.Location = New System.Drawing.Point(452, 73)
-        Me.ComboBox22.Name = "ComboBox22"
-        Me.ComboBox22.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox22.TabIndex = 67
-        '
-        'ComboBox23
-        '
-        Me.ComboBox23.FormattingEnabled = True
-        Me.ComboBox23.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox23.Location = New System.Drawing.Point(452, 120)
-        Me.ComboBox23.Name = "ComboBox23"
-        Me.ComboBox23.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox23.TabIndex = 68
-        '
-        'ComboBox24
-        '
-        Me.ComboBox24.FormattingEnabled = True
-        Me.ComboBox24.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox24.Location = New System.Drawing.Point(452, 168)
-        Me.ComboBox24.Name = "ComboBox24"
-        Me.ComboBox24.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox24.TabIndex = 69
-        '
-        'ComboBox25
-        '
-        Me.ComboBox25.FormattingEnabled = True
-        Me.ComboBox25.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox25.Location = New System.Drawing.Point(452, 210)
-        Me.ComboBox25.Name = "ComboBox25"
-        Me.ComboBox25.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox25.TabIndex = 70
-        '
-        'ComboBox26
-        '
-        Me.ComboBox26.FormattingEnabled = True
-        Me.ComboBox26.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox26.Location = New System.Drawing.Point(503, 257)
-        Me.ComboBox26.Name = "ComboBox26"
-        Me.ComboBox26.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox26.TabIndex = 71
-        '
-        'ComboBox27
-        '
-        Me.ComboBox27.FormattingEnabled = True
-        Me.ComboBox27.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox27.Location = New System.Drawing.Point(503, 73)
-        Me.ComboBox27.Name = "ComboBox27"
-        Me.ComboBox27.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox27.TabIndex = 72
-        '
-        'ComboBox28
-        '
-        Me.ComboBox28.FormattingEnabled = True
-        Me.ComboBox28.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox28.Location = New System.Drawing.Point(503, 120)
-        Me.ComboBox28.Name = "ComboBox28"
-        Me.ComboBox28.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox28.TabIndex = 73
-        '
-        'ComboBox29
-        '
-        Me.ComboBox29.FormattingEnabled = True
-        Me.ComboBox29.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox29.Location = New System.Drawing.Point(503, 168)
-        Me.ComboBox29.Name = "ComboBox29"
-        Me.ComboBox29.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox29.TabIndex = 74
-        '
-        'ComboBox30
-        '
-        Me.ComboBox30.FormattingEnabled = True
-        Me.ComboBox30.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
-        Me.ComboBox30.Location = New System.Drawing.Point(503, 210)
-        Me.ComboBox30.Name = "ComboBox30"
-        Me.ComboBox30.Size = New System.Drawing.Size(45, 21)
-        Me.ComboBox30.TabIndex = 75
+        Me.TextBox3.Location = New System.Drawing.Point(112, 62)
+        Me.TextBox3.Name = "TextBox3"
+        Me.TextBox3.Size = New System.Drawing.Size(35, 20)
+        Me.TextBox3.TabIndex = 46
+        Me.TextBox3.Text = "M"
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackColor = System.Drawing.SystemColors.Control
-        Me.ClientSize = New System.Drawing.Size(688, 403)
-        Me.Controls.Add(Me.ComboBox30)
-        Me.Controls.Add(Me.ComboBox29)
-        Me.Controls.Add(Me.ComboBox28)
-        Me.Controls.Add(Me.ComboBox27)
-        Me.Controls.Add(Me.ComboBox26)
-        Me.Controls.Add(Me.ComboBox25)
-        Me.Controls.Add(Me.ComboBox24)
-        Me.Controls.Add(Me.ComboBox23)
-        Me.Controls.Add(Me.ComboBox22)
-        Me.Controls.Add(Me.ComboBox21)
-        Me.Controls.Add(Me.ComboBox20)
-        Me.Controls.Add(Me.ComboBox19)
-        Me.Controls.Add(Me.ComboBox18)
-        Me.Controls.Add(Me.ComboBox17)
-        Me.Controls.Add(Me.ComboBox16)
-        Me.Controls.Add(Me.ComboBox15)
-        Me.Controls.Add(Me.ComboBox14)
-        Me.Controls.Add(Me.ComboBox13)
-        Me.Controls.Add(Me.ComboBox12)
-        Me.Controls.Add(Me.ComboBox11)
-        Me.Controls.Add(Me.ComboBox10)
-        Me.Controls.Add(Me.ComboBox9)
-        Me.Controls.Add(Me.ComboBox8)
-        Me.Controls.Add(Me.ComboBox7)
-        Me.Controls.Add(Me.ComboBox6)
-        Me.Controls.Add(Me.ComboBox5)
-        Me.Controls.Add(Me.ComboBox4)
-        Me.Controls.Add(Me.ComboBox3)
-        Me.Controls.Add(Me.ComboBox2)
-        Me.Controls.Add(Me.ComboBox1)
+        Me.BackColor = System.Drawing.SystemColors.ActiveCaptionText
+        Me.ClientSize = New System.Drawing.Size(601, 319)
+        Me.Controls.Add(Me.TextBox3)
         Me.Controls.Add(Me.TextBox44)
         Me.Controls.Add(Me.TextBox43)
         Me.Controls.Add(Me.Button2)
@@ -530,6 +458,35 @@ Partial Class Form1
         Me.Controls.Add(Me.TextBox35)
         Me.Controls.Add(Me.TextBox34)
         Me.Controls.Add(Me.TextBox33)
+        Me.Controls.Add(Me.TextBox32)
+        Me.Controls.Add(Me.TextBox31)
+        Me.Controls.Add(Me.TextBox30)
+        Me.Controls.Add(Me.TextBox29)
+        Me.Controls.Add(Me.TextBox28)
+        Me.Controls.Add(Me.TextBox27)
+        Me.Controls.Add(Me.TextBox26)
+        Me.Controls.Add(Me.TextBox25)
+        Me.Controls.Add(Me.TextBox24)
+        Me.Controls.Add(Me.TextBox23)
+        Me.Controls.Add(Me.TextBox22)
+        Me.Controls.Add(Me.TextBox21)
+        Me.Controls.Add(Me.TextBox20)
+        Me.Controls.Add(Me.TextBox19)
+        Me.Controls.Add(Me.TextBox18)
+        Me.Controls.Add(Me.TextBox17)
+        Me.Controls.Add(Me.TextBox16)
+        Me.Controls.Add(Me.TextBox15)
+        Me.Controls.Add(Me.TextBox14)
+        Me.Controls.Add(Me.TextBox13)
+        Me.Controls.Add(Me.TextBox12)
+        Me.Controls.Add(Me.TextBox11)
+        Me.Controls.Add(Me.TextBox10)
+        Me.Controls.Add(Me.TextBox9)
+        Me.Controls.Add(Me.TextBox8)
+        Me.Controls.Add(Me.TextBox7)
+        Me.Controls.Add(Me.TextBox6)
+        Me.Controls.Add(Me.TextBox5)
+        Me.Controls.Add(Me.TextBox4)
         Me.Controls.Add(Me.TextBox2)
         Me.Controls.Add(Me.TextBox1)
         Me.Name = "Form1"
@@ -541,6 +498,35 @@ Partial Class Form1
 
     Friend WithEvents TextBox1 As TextBox
     Friend WithEvents TextBox2 As TextBox
+    Friend WithEvents TextBox4 As TextBox
+    Friend WithEvents TextBox5 As TextBox
+    Friend WithEvents TextBox6 As TextBox
+    Friend WithEvents TextBox7 As TextBox
+    Friend WithEvents TextBox8 As TextBox
+    Friend WithEvents TextBox9 As TextBox
+    Friend WithEvents TextBox10 As TextBox
+    Friend WithEvents TextBox11 As TextBox
+    Friend WithEvents TextBox12 As TextBox
+    Friend WithEvents TextBox13 As TextBox
+    Friend WithEvents TextBox14 As TextBox
+    Friend WithEvents TextBox15 As TextBox
+    Friend WithEvents TextBox16 As TextBox
+    Friend WithEvents TextBox17 As TextBox
+    Friend WithEvents TextBox18 As TextBox
+    Friend WithEvents TextBox19 As TextBox
+    Friend WithEvents TextBox20 As TextBox
+    Friend WithEvents TextBox21 As TextBox
+    Friend WithEvents TextBox22 As TextBox
+    Friend WithEvents TextBox23 As TextBox
+    Friend WithEvents TextBox24 As TextBox
+    Friend WithEvents TextBox25 As TextBox
+    Friend WithEvents TextBox26 As TextBox
+    Friend WithEvents TextBox27 As TextBox
+    Friend WithEvents TextBox28 As TextBox
+    Friend WithEvents TextBox29 As TextBox
+    Friend WithEvents TextBox30 As TextBox
+    Friend WithEvents TextBox31 As TextBox
+    Friend WithEvents TextBox32 As TextBox
     Friend WithEvents TextBox33 As TextBox
     Friend WithEvents TextBox34 As TextBox
     Friend WithEvents TextBox35 As TextBox
@@ -555,34 +541,5 @@ Partial Class Form1
     Friend WithEvents Button2 As Button
     Friend WithEvents TextBox43 As TextBox
     Friend WithEvents TextBox44 As TextBox
-    Friend WithEvents ComboBox1 As ComboBox
-    Friend WithEvents ComboBox2 As ComboBox
-    Friend WithEvents ComboBox3 As ComboBox
-    Friend WithEvents ComboBox4 As ComboBox
-    Friend WithEvents ComboBox5 As ComboBox
-    Friend WithEvents ComboBox6 As ComboBox
-    Friend WithEvents ComboBox7 As ComboBox
-    Friend WithEvents ComboBox8 As ComboBox
-    Friend WithEvents ComboBox9 As ComboBox
-    Friend WithEvents ComboBox10 As ComboBox
-    Friend WithEvents ComboBox11 As ComboBox
-    Friend WithEvents ComboBox12 As ComboBox
-    Friend WithEvents ComboBox13 As ComboBox
-    Friend WithEvents ComboBox14 As ComboBox
-    Friend WithEvents ComboBox15 As ComboBox
-    Friend WithEvents ComboBox16 As ComboBox
-    Friend WithEvents ComboBox17 As ComboBox
-    Friend WithEvents ComboBox18 As ComboBox
-    Friend WithEvents ComboBox19 As ComboBox
-    Friend WithEvents ComboBox20 As ComboBox
-    Friend WithEvents ComboBox21 As ComboBox
-    Friend WithEvents ComboBox22 As ComboBox
-    Friend WithEvents ComboBox23 As ComboBox
-    Friend WithEvents ComboBox24 As ComboBox
-    Friend WithEvents ComboBox25 As ComboBox
-    Friend WithEvents ComboBox26 As ComboBox
-    Friend WithEvents ComboBox27 As ComboBox
-    Friend WithEvents ComboBox28 As ComboBox
-    Friend WithEvents ComboBox29 As ComboBox
-    Friend WithEvents ComboBox30 As ComboBox
+    Friend WithEvents TextBox3 As TextBox
 End Class
