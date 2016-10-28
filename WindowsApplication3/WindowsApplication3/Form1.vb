@@ -20,4 +20,16 @@
     Private Sub ListBox1_SelectedIndexChanged(sender As Object, e As EventArgs)
 
     End Sub
+
+    Private Sub TextBox35_TextChanged(sender As Object, e As EventArgs) Handles TextBox35.TextChanged
+
+    End Sub
+
+    Private Sub TextBox37_TextChanged(sender As Object, e As EventArgs) Handles TextBox37.TextChanged
+
+    End Sub
+
+    Private Sub ComboBox1_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ComboBox1.SelectedIndexChanged
+
+    End Sub
 End Class
