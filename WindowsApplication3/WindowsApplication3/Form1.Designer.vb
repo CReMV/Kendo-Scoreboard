@@ -67,7 +67,7 @@ Partial Class Form1
         Me.Button2 = New System.Windows.Forms.Button()
         Me.TextBox43 = New System.Windows.Forms.TextBox()
         Me.TextBox44 = New System.Windows.Forms.TextBox()
-        Me.TextBox3 = New System.Windows.Forms.TextBox()
+        Me.ComboBox1 = New System.Windows.Forms.ComboBox()
         Me.SuspendLayout()
         '
         'TextBox1
@@ -429,13 +429,14 @@ Partial Class Form1
         Me.TextBox44.Size = New System.Drawing.Size(292, 20)
         Me.TextBox44.TabIndex = 45
         '
-        'TextBox3
+        'ComboBox1
         '
-        Me.TextBox3.Location = New System.Drawing.Point(112, 62)
-        Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(35, 20)
-        Me.TextBox3.TabIndex = 46
-        Me.TextBox3.Text = "M"
+        Me.ComboBox1.FormattingEnabled = True
+        Me.ComboBox1.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "H(PENALTY1/2)", "HT"})
+        Me.ComboBox1.Location = New System.Drawing.Point(112, 61)
+        Me.ComboBox1.Name = "ComboBox1"
+        Me.ComboBox1.Size = New System.Drawing.Size(37, 21)
+        Me.ComboBox1.TabIndex = 46
         '
         'Form1
         '
@@ -443,7 +444,7 @@ Partial Class Form1
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ActiveCaptionText
         Me.ClientSize = New System.Drawing.Size(601, 319)
-        Me.Controls.Add(Me.TextBox3)
+        Me.Controls.Add(Me.ComboBox1)
         Me.Controls.Add(Me.TextBox44)
         Me.Controls.Add(Me.TextBox43)
         Me.Controls.Add(Me.Button2)
@@ -541,5 +542,5 @@ Partial Class Form1
     Friend WithEvents Button2 As Button
     Friend WithEvents TextBox43 As TextBox
     Friend WithEvents TextBox44 As TextBox
-    Friend WithEvents TextBox3 As TextBox
+    Friend WithEvents ComboBox1 As ComboBox
 End Class

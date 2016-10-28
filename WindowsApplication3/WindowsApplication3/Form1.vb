@@ -14,7 +14,7 @@
         Form2.TextBox41.Text = TextBox41.Text
         Form2.TextBox42.Text = TextBox42.Text
         Form2.TextBox44.Text = TextBox44.Text
-
+        Form2.TextBox8.Text = ComboBox1.Text
     End Sub
 
 End Class
