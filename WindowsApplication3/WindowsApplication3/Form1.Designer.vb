@@ -634,6 +634,7 @@ Partial Class Form1
         Me.TextBox5.Font = New System.Drawing.Font("Verdana", 8.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox5.Location = New System.Drawing.Point(725, 506)
         Me.TextBox5.Name = "TextBox5"
+        Me.TextBox5.ReadOnly = True
         Me.TextBox5.Size = New System.Drawing.Size(135, 21)
         Me.TextBox5.TabIndex = 84
         Me.TextBox5.Text = "created by C.A.G.P"
