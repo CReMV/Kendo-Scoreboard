@@ -4,6 +4,8 @@
         Form2.TextBox1.Text = TextBox1.Text
         Form2.TextBox2.Text = TextBox2.Text
         Form2.TextBox3.Text = TextBox33.Text
+        Form2.TextBox45.Text = TextBox3.Text
+        Form2.TextBox52.Text = TextBox4.Text
         Form2.TextBox8.Text = TextBox34.Text
         Form2.TextBox5.Text = TextBox35.Text
         Form2.TextBox10.Text = TextBox36.Text
@@ -44,12 +46,20 @@
         Form2.TextBox27.Text = ComboBox28.Text
         Form2.TextBox32.Text = ComboBox29.Text
         Form2.TextBox37.Text = ComboBox30.Text
+        Form2.TextBox46.Text = ComboBox31.Text
+        Form2.TextBox47.Text = ComboBox32.Text
+        Form2.TextBox48.Text = ComboBox33.Text
+        Form2.TextBox49.Text = ComboBox34.Text
+        Form2.TextBox50.Text = ComboBox35.Text
+        Form2.TextBox51.Text = ComboBox36.Text
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         Me.Show()
         Me.TextBox1.Text = "Team 1"
         Me.TextBox2.Text = "Team 2"
+        Me.TextBox3.Text = "Player"
+        Me.TextBox4.Text = "Player"
         Me.TextBox38.Text = "Player 1"
         Me.TextBox39.Text = "Player 2"
         Me.TextBox40.Text = "Player 3"

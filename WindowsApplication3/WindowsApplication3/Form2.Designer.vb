@@ -95,6 +95,7 @@ Partial Class Form2
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(400, 60)
         Me.TextBox2.TabIndex = 1
+        Me.TextBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'TextBox3
         '
@@ -108,11 +109,13 @@ Partial Class Form2
         '
         'TextBox4
         '
+        Me.TextBox4.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox4.Location = New System.Drawing.Point(384, 144)
         Me.TextBox4.Multiline = True
         Me.TextBox4.Name = "TextBox4"
         Me.TextBox4.Size = New System.Drawing.Size(60, 38)
         Me.TextBox4.TabIndex = 3
+        Me.TextBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox5
         '
@@ -136,11 +139,13 @@ Partial Class Form2
         '
         'TextBox7
         '
+        Me.TextBox7.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox7.Location = New System.Drawing.Point(384, 278)
         Me.TextBox7.Multiline = True
         Me.TextBox7.Name = "TextBox7"
         Me.TextBox7.Size = New System.Drawing.Size(60, 39)
         Me.TextBox7.TabIndex = 6
+        Me.TextBox7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox8
         '
@@ -154,11 +159,13 @@ Partial Class Form2
         '
         'TextBox9
         '
+        Me.TextBox9.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox9.Location = New System.Drawing.Point(253, 144)
         Me.TextBox9.Multiline = True
         Me.TextBox9.Name = "TextBox9"
         Me.TextBox9.Size = New System.Drawing.Size(60, 38)
         Me.TextBox9.TabIndex = 8
+        Me.TextBox9.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox10
         '
@@ -172,219 +179,273 @@ Partial Class Form2
         '
         'TextBox11
         '
+        Me.TextBox11.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox11.Location = New System.Drawing.Point(253, 278)
         Me.TextBox11.Multiline = True
         Me.TextBox11.Name = "TextBox11"
         Me.TextBox11.Size = New System.Drawing.Size(60, 39)
         Me.TextBox11.TabIndex = 10
+        Me.TextBox11.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox12
         '
+        Me.TextBox12.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox12.Location = New System.Drawing.Point(319, 278)
         Me.TextBox12.Multiline = True
         Me.TextBox12.Name = "TextBox12"
         Me.TextBox12.Size = New System.Drawing.Size(60, 39)
         Me.TextBox12.TabIndex = 11
+        Me.TextBox12.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox13
         '
+        Me.TextBox13.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox13.Location = New System.Drawing.Point(253, 97)
         Me.TextBox13.Multiline = True
         Me.TextBox13.Name = "TextBox13"
         Me.TextBox13.Size = New System.Drawing.Size(60, 40)
         Me.TextBox13.TabIndex = 12
+        Me.TextBox13.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox14
         '
+        Me.TextBox14.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox14.Location = New System.Drawing.Point(319, 144)
         Me.TextBox14.Multiline = True
         Me.TextBox14.Name = "TextBox14"
         Me.TextBox14.Size = New System.Drawing.Size(60, 38)
         Me.TextBox14.TabIndex = 13
+        Me.TextBox14.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox15
         '
+        Me.TextBox15.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox15.Location = New System.Drawing.Point(253, 188)
         Me.TextBox15.Multiline = True
         Me.TextBox15.Name = "TextBox15"
         Me.TextBox15.Size = New System.Drawing.Size(60, 39)
         Me.TextBox15.TabIndex = 14
+        Me.TextBox15.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox16
         '
+        Me.TextBox16.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox16.Location = New System.Drawing.Point(253, 233)
         Me.TextBox16.Multiline = True
         Me.TextBox16.Name = "TextBox16"
         Me.TextBox16.Size = New System.Drawing.Size(60, 39)
         Me.TextBox16.TabIndex = 15
+        Me.TextBox16.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox17
         '
+        Me.TextBox17.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox17.Location = New System.Drawing.Point(384, 233)
         Me.TextBox17.Multiline = True
         Me.TextBox17.Name = "TextBox17"
         Me.TextBox17.Size = New System.Drawing.Size(61, 39)
         Me.TextBox17.TabIndex = 16
+        Me.TextBox17.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox18
         '
+        Me.TextBox18.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox18.Location = New System.Drawing.Point(385, 97)
         Me.TextBox18.Multiline = True
         Me.TextBox18.Name = "TextBox18"
         Me.TextBox18.Size = New System.Drawing.Size(60, 40)
         Me.TextBox18.TabIndex = 17
+        Me.TextBox18.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox19
         '
+        Me.TextBox19.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox19.Location = New System.Drawing.Point(319, 97)
         Me.TextBox19.Multiline = True
         Me.TextBox19.Name = "TextBox19"
         Me.TextBox19.Size = New System.Drawing.Size(60, 40)
         Me.TextBox19.TabIndex = 18
+        Me.TextBox19.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox20
         '
+        Me.TextBox20.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox20.Location = New System.Drawing.Point(319, 188)
         Me.TextBox20.Multiline = True
         Me.TextBox20.Name = "TextBox20"
         Me.TextBox20.Size = New System.Drawing.Size(60, 39)
         Me.TextBox20.TabIndex = 19
+        Me.TextBox20.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox21
         '
+        Me.TextBox21.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox21.Location = New System.Drawing.Point(384, 188)
         Me.TextBox21.Multiline = True
         Me.TextBox21.Name = "TextBox21"
         Me.TextBox21.Size = New System.Drawing.Size(60, 39)
         Me.TextBox21.TabIndex = 20
+        Me.TextBox21.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox22
         '
+        Me.TextBox22.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox22.Location = New System.Drawing.Point(319, 233)
         Me.TextBox22.Multiline = True
         Me.TextBox22.Name = "TextBox22"
         Me.TextBox22.Size = New System.Drawing.Size(60, 39)
         Me.TextBox22.TabIndex = 21
+        Me.TextBox22.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox23
         '
+        Me.TextBox23.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox23.Location = New System.Drawing.Point(453, 97)
         Me.TextBox23.Multiline = True
         Me.TextBox23.Name = "TextBox23"
         Me.TextBox23.Size = New System.Drawing.Size(60, 40)
         Me.TextBox23.TabIndex = 22
+        Me.TextBox23.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox24
         '
+        Me.TextBox24.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox24.Location = New System.Drawing.Point(453, 144)
         Me.TextBox24.Multiline = True
         Me.TextBox24.Name = "TextBox24"
         Me.TextBox24.Size = New System.Drawing.Size(60, 38)
         Me.TextBox24.TabIndex = 23
+        Me.TextBox24.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox25
         '
+        Me.TextBox25.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox25.Location = New System.Drawing.Point(453, 188)
         Me.TextBox25.Multiline = True
         Me.TextBox25.Name = "TextBox25"
         Me.TextBox25.Size = New System.Drawing.Size(60, 39)
         Me.TextBox25.TabIndex = 24
+        Me.TextBox25.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox26
         '
+        Me.TextBox26.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox26.Location = New System.Drawing.Point(453, 233)
         Me.TextBox26.Multiline = True
         Me.TextBox26.Name = "TextBox26"
         Me.TextBox26.Size = New System.Drawing.Size(60, 39)
         Me.TextBox26.TabIndex = 25
+        Me.TextBox26.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox27
         '
+        Me.TextBox27.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox27.Location = New System.Drawing.Point(453, 278)
         Me.TextBox27.Multiline = True
         Me.TextBox27.Name = "TextBox27"
         Me.TextBox27.Size = New System.Drawing.Size(60, 39)
         Me.TextBox27.TabIndex = 26
+        Me.TextBox27.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox28
         '
+        Me.TextBox28.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox28.Location = New System.Drawing.Point(519, 97)
         Me.TextBox28.Multiline = True
         Me.TextBox28.Name = "TextBox28"
         Me.TextBox28.Size = New System.Drawing.Size(60, 40)
         Me.TextBox28.TabIndex = 27
+        Me.TextBox28.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox29
         '
+        Me.TextBox29.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox29.Location = New System.Drawing.Point(519, 144)
         Me.TextBox29.Multiline = True
         Me.TextBox29.Name = "TextBox29"
         Me.TextBox29.Size = New System.Drawing.Size(60, 38)
         Me.TextBox29.TabIndex = 28
+        Me.TextBox29.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox30
         '
+        Me.TextBox30.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox30.Location = New System.Drawing.Point(519, 188)
         Me.TextBox30.Multiline = True
         Me.TextBox30.Name = "TextBox30"
         Me.TextBox30.Size = New System.Drawing.Size(60, 39)
         Me.TextBox30.TabIndex = 29
+        Me.TextBox30.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox31
         '
+        Me.TextBox31.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox31.Location = New System.Drawing.Point(519, 233)
         Me.TextBox31.Multiline = True
         Me.TextBox31.Name = "TextBox31"
         Me.TextBox31.Size = New System.Drawing.Size(60, 39)
         Me.TextBox31.TabIndex = 30
+        Me.TextBox31.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox32
         '
+        Me.TextBox32.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox32.Location = New System.Drawing.Point(519, 278)
         Me.TextBox32.Multiline = True
         Me.TextBox32.Name = "TextBox32"
         Me.TextBox32.Size = New System.Drawing.Size(60, 39)
         Me.TextBox32.TabIndex = 31
+        Me.TextBox32.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox33
         '
+        Me.TextBox33.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox33.Location = New System.Drawing.Point(585, 97)
         Me.TextBox33.Multiline = True
         Me.TextBox33.Name = "TextBox33"
         Me.TextBox33.Size = New System.Drawing.Size(60, 40)
         Me.TextBox33.TabIndex = 32
+        Me.TextBox33.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox34
         '
+        Me.TextBox34.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox34.Location = New System.Drawing.Point(585, 144)
         Me.TextBox34.Multiline = True
         Me.TextBox34.Name = "TextBox34"
         Me.TextBox34.Size = New System.Drawing.Size(60, 38)
         Me.TextBox34.TabIndex = 33
+        Me.TextBox34.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox35
         '
+        Me.TextBox35.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox35.Location = New System.Drawing.Point(585, 188)
         Me.TextBox35.Multiline = True
         Me.TextBox35.Name = "TextBox35"
         Me.TextBox35.Size = New System.Drawing.Size(60, 39)
         Me.TextBox35.TabIndex = 34
+        Me.TextBox35.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox36
         '
+        Me.TextBox36.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox36.Location = New System.Drawing.Point(585, 233)
         Me.TextBox36.Multiline = True
         Me.TextBox36.Name = "TextBox36"
         Me.TextBox36.Size = New System.Drawing.Size(60, 39)
         Me.TextBox36.TabIndex = 35
+        Me.TextBox36.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox37
         '
+        Me.TextBox37.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox37.Location = New System.Drawing.Point(585, 278)
         Me.TextBox37.Multiline = True
         Me.TextBox37.Name = "TextBox37"
         Me.TextBox37.Size = New System.Drawing.Size(60, 39)
         Me.TextBox37.TabIndex = 36
+        Me.TextBox37.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox38
         '
@@ -395,6 +456,7 @@ Partial Class Form2
         Me.TextBox38.Name = "TextBox38"
         Me.TextBox38.Size = New System.Drawing.Size(204, 40)
         Me.TextBox38.TabIndex = 37
+        Me.TextBox38.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'TextBox39
         '
@@ -405,6 +467,7 @@ Partial Class Form2
         Me.TextBox39.Name = "TextBox39"
         Me.TextBox39.Size = New System.Drawing.Size(204, 38)
         Me.TextBox39.TabIndex = 38
+        Me.TextBox39.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'TextBox40
         '
@@ -415,6 +478,7 @@ Partial Class Form2
         Me.TextBox40.Name = "TextBox40"
         Me.TextBox40.Size = New System.Drawing.Size(204, 39)
         Me.TextBox40.TabIndex = 39
+        Me.TextBox40.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'TextBox41
         '
@@ -425,6 +489,7 @@ Partial Class Form2
         Me.TextBox41.Name = "TextBox41"
         Me.TextBox41.Size = New System.Drawing.Size(204, 39)
         Me.TextBox41.TabIndex = 40
+        Me.TextBox41.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'TextBox42
         '
@@ -435,6 +500,7 @@ Partial Class Form2
         Me.TextBox42.Name = "TextBox42"
         Me.TextBox42.Size = New System.Drawing.Size(202, 39)
         Me.TextBox42.TabIndex = 41
+        Me.TextBox42.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'TextBox43
         '
@@ -470,51 +536,63 @@ Partial Class Form2
         '
         'TextBox46
         '
+        Me.TextBox46.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox46.Location = New System.Drawing.Point(253, 380)
         Me.TextBox46.Multiline = True
         Me.TextBox46.Name = "TextBox46"
         Me.TextBox46.Size = New System.Drawing.Size(60, 40)
         Me.TextBox46.TabIndex = 45
+        Me.TextBox46.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox47
         '
+        Me.TextBox47.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox47.Location = New System.Drawing.Point(319, 380)
         Me.TextBox47.Multiline = True
         Me.TextBox47.Name = "TextBox47"
         Me.TextBox47.Size = New System.Drawing.Size(60, 41)
         Me.TextBox47.TabIndex = 46
+        Me.TextBox47.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox48
         '
+        Me.TextBox48.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox48.Location = New System.Drawing.Point(384, 380)
         Me.TextBox48.Multiline = True
         Me.TextBox48.Name = "TextBox48"
         Me.TextBox48.Size = New System.Drawing.Size(61, 41)
         Me.TextBox48.TabIndex = 47
+        Me.TextBox48.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox49
         '
+        Me.TextBox49.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox49.Location = New System.Drawing.Point(453, 380)
         Me.TextBox49.Multiline = True
         Me.TextBox49.Name = "TextBox49"
         Me.TextBox49.Size = New System.Drawing.Size(60, 41)
         Me.TextBox49.TabIndex = 48
+        Me.TextBox49.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox50
         '
+        Me.TextBox50.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox50.Location = New System.Drawing.Point(519, 380)
         Me.TextBox50.Multiline = True
         Me.TextBox50.Name = "TextBox50"
         Me.TextBox50.Size = New System.Drawing.Size(60, 41)
         Me.TextBox50.TabIndex = 49
+        Me.TextBox50.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox51
         '
+        Me.TextBox51.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.TextBox51.Location = New System.Drawing.Point(585, 380)
         Me.TextBox51.Multiline = True
         Me.TextBox51.Name = "TextBox51"
         Me.TextBox51.Size = New System.Drawing.Size(60, 40)
         Me.TextBox51.TabIndex = 50
+        Me.TextBox51.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox52
         '
@@ -525,6 +603,7 @@ Partial Class Form2
         Me.TextBox52.Name = "TextBox52"
         Me.TextBox52.Size = New System.Drawing.Size(197, 39)
         Me.TextBox52.TabIndex = 51
+        Me.TextBox52.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Form2
         '
