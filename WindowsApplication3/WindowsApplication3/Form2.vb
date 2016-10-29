@@ -6,6 +6,10 @@
     Private Sub Form2_Resize(sender As Object, e As EventArgs) Handles Me.Resize
         rs.ResizeAllControls(Me)
     End Sub
+
+    Private Sub TextBox6_TextChanged(sender As Object, e As EventArgs) Handles TextBox6.TextChanged
+
+    End Sub
 End Class
 Public Class Resizer
 
