@@ -1,5 +1,5 @@
 ﻿Public Class Form2
-    Dim rs As New Resizer
+    Dim rs As New OutputResizer
     Private Sub Form2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         rs.FindAllControls(Me)
     End Sub
@@ -11,7 +11,7 @@
 
     End Sub
 End Class
-Public Class Resizer
+Public Class OutputResizer
 
     '----------------------------------------------------------
     ' ControlInfo
