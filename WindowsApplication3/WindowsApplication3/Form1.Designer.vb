@@ -79,7 +79,7 @@ Partial Class Form1
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(400, 55)
         Me.TextBox1.TabIndex = 0
-        Me.TextBox1.Text = "Team"
+        Me.TextBox1.Text = "Team 1"
         '
         'TextBox2
         '
@@ -90,7 +90,7 @@ Partial Class Form1
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(400, 55)
         Me.TextBox2.TabIndex = 1
-        Me.TextBox2.Text = "Team"
+        Me.TextBox2.Text = "Team 2"
         '
         'TextBox33
         '
@@ -101,7 +101,7 @@ Partial Class Form1
         Me.TextBox33.Name = "TextBox33"
         Me.TextBox33.Size = New System.Drawing.Size(145, 42)
         Me.TextBox33.TabIndex = 32
-        Me.TextBox33.Text = "Player"
+        Me.TextBox33.Text = "Player 1"
         '
         'TextBox34
         '
@@ -112,7 +112,7 @@ Partial Class Form1
         Me.TextBox34.Name = "TextBox34"
         Me.TextBox34.Size = New System.Drawing.Size(145, 42)
         Me.TextBox34.TabIndex = 33
-        Me.TextBox34.Text = "Player"
+        Me.TextBox34.Text = "Player 2"
         '
         'TextBox35
         '
@@ -123,7 +123,7 @@ Partial Class Form1
         Me.TextBox35.Name = "TextBox35"
         Me.TextBox35.Size = New System.Drawing.Size(145, 42)
         Me.TextBox35.TabIndex = 34
-        Me.TextBox35.Text = "Player"
+        Me.TextBox35.Text = "Player 3"
         '
         'TextBox36
         '
@@ -134,7 +134,7 @@ Partial Class Form1
         Me.TextBox36.Name = "TextBox36"
         Me.TextBox36.Size = New System.Drawing.Size(145, 42)
         Me.TextBox36.TabIndex = 35
-        Me.TextBox36.Text = "Player"
+        Me.TextBox36.Text = "Player 4"
         '
         'TextBox37
         '
@@ -145,7 +145,7 @@ Partial Class Form1
         Me.TextBox37.Name = "TextBox37"
         Me.TextBox37.Size = New System.Drawing.Size(145, 42)
         Me.TextBox37.TabIndex = 36
-        Me.TextBox37.Text = "Player"
+        Me.TextBox37.Text = "Player 5"
         '
         'TextBox38
         '
@@ -156,7 +156,7 @@ Partial Class Form1
         Me.TextBox38.Name = "TextBox38"
         Me.TextBox38.Size = New System.Drawing.Size(145, 42)
         Me.TextBox38.TabIndex = 37
-        Me.TextBox38.Text = "Player"
+        Me.TextBox38.Text = "Player 1"
         '
         'TextBox39
         '
@@ -167,7 +167,7 @@ Partial Class Form1
         Me.TextBox39.Name = "TextBox39"
         Me.TextBox39.Size = New System.Drawing.Size(145, 42)
         Me.TextBox39.TabIndex = 38
-        Me.TextBox39.Text = "Player"
+        Me.TextBox39.Text = "Player 2"
         '
         'TextBox40
         '
@@ -178,7 +178,7 @@ Partial Class Form1
         Me.TextBox40.Name = "TextBox40"
         Me.TextBox40.Size = New System.Drawing.Size(145, 42)
         Me.TextBox40.TabIndex = 39
-        Me.TextBox40.Text = "Player"
+        Me.TextBox40.Text = "Player 3"
         '
         'TextBox41
         '
@@ -189,7 +189,7 @@ Partial Class Form1
         Me.TextBox41.Name = "TextBox41"
         Me.TextBox41.Size = New System.Drawing.Size(145, 42)
         Me.TextBox41.TabIndex = 40
-        Me.TextBox41.Text = "Player"
+        Me.TextBox41.Text = "Player 4"
         '
         'TextBox42
         '
@@ -200,7 +200,7 @@ Partial Class Form1
         Me.TextBox42.Name = "TextBox42"
         Me.TextBox42.Size = New System.Drawing.Size(145, 42)
         Me.TextBox42.TabIndex = 41
-        Me.TextBox42.Text = "Player"
+        Me.TextBox42.Text = "Player 5"
         '
         'Button1
         '
@@ -243,6 +243,7 @@ Partial Class Form1
         Me.TextBox44.Name = "TextBox44"
         Me.TextBox44.Size = New System.Drawing.Size(400, 40)
         Me.TextBox44.TabIndex = 45
+        Me.TextBox44.Text = "Team 1 VS Team 2"
         '
         'ComboBox1
         '
