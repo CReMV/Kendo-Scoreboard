@@ -598,7 +598,7 @@ Partial Class Form1
         Me.Controls.Add(Me.TextBox2)
         Me.Controls.Add(Me.TextBox1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Scoreboard Input"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
