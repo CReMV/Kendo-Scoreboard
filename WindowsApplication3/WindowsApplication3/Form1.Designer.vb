@@ -566,6 +566,7 @@ Partial Class Form1
         'ComboBox31
         '
         Me.ComboBox31.FormattingEnabled = True
+        Me.ComboBox31.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
         Me.ComboBox31.Location = New System.Drawing.Point(197, 399)
         Me.ComboBox31.Name = "ComboBox31"
         Me.ComboBox31.Size = New System.Drawing.Size(71, 21)
@@ -574,6 +575,7 @@ Partial Class Form1
         'ComboBox32
         '
         Me.ComboBox32.FormattingEnabled = True
+        Me.ComboBox32.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
         Me.ComboBox32.Location = New System.Drawing.Point(275, 399)
         Me.ComboBox32.Name = "ComboBox32"
         Me.ComboBox32.Size = New System.Drawing.Size(70, 21)
@@ -582,6 +584,7 @@ Partial Class Form1
         'ComboBox33
         '
         Me.ComboBox33.FormattingEnabled = True
+        Me.ComboBox33.Items.AddRange(New Object() {"M", "K", "D", "T", "▲", "▬"})
         Me.ComboBox33.Location = New System.Drawing.Point(351, 399)
         Me.ComboBox33.Name = "ComboBox33"
         Me.ComboBox33.Size = New System.Drawing.Size(71, 21)
@@ -590,6 +593,7 @@ Partial Class Form1
         'ComboBox34
         '
         Me.ComboBox34.FormattingEnabled = True
+        Me.ComboBox34.Items.AddRange(New Object() {"M", "K", "D", "T", "▲", "▬"})
         Me.ComboBox34.Location = New System.Drawing.Point(428, 399)
         Me.ComboBox34.Name = "ComboBox34"
         Me.ComboBox34.Size = New System.Drawing.Size(71, 21)
@@ -598,6 +602,7 @@ Partial Class Form1
         'ComboBox35
         '
         Me.ComboBox35.FormattingEnabled = True
+        Me.ComboBox35.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
         Me.ComboBox35.Location = New System.Drawing.Point(505, 399)
         Me.ComboBox35.Name = "ComboBox35"
         Me.ComboBox35.Size = New System.Drawing.Size(71, 21)
@@ -606,6 +611,7 @@ Partial Class Form1
         'ComboBox36
         '
         Me.ComboBox36.FormattingEnabled = True
+        Me.ComboBox36.Items.AddRange(New Object() {"M", "K", "D", "T", "▲"})
         Me.ComboBox36.Location = New System.Drawing.Point(582, 399)
         Me.ComboBox36.Name = "ComboBox36"
         Me.ComboBox36.Size = New System.Drawing.Size(71, 21)
