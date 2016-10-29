@@ -395,6 +395,7 @@ Partial Class Form2
         Me.TextBox38.Name = "TextBox38"
         Me.TextBox38.Size = New System.Drawing.Size(204, 40)
         Me.TextBox38.TabIndex = 37
+        Me.TextBox38.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'TextBox39
         '
@@ -405,6 +406,7 @@ Partial Class Form2
         Me.TextBox39.Name = "TextBox39"
         Me.TextBox39.Size = New System.Drawing.Size(204, 38)
         Me.TextBox39.TabIndex = 38
+        Me.TextBox39.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'TextBox40
         '
@@ -415,6 +417,7 @@ Partial Class Form2
         Me.TextBox40.Name = "TextBox40"
         Me.TextBox40.Size = New System.Drawing.Size(204, 39)
         Me.TextBox40.TabIndex = 39
+        Me.TextBox40.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'TextBox41
         '
@@ -425,6 +428,7 @@ Partial Class Form2
         Me.TextBox41.Name = "TextBox41"
         Me.TextBox41.Size = New System.Drawing.Size(204, 39)
         Me.TextBox41.TabIndex = 40
+        Me.TextBox41.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'TextBox42
         '
@@ -435,6 +439,7 @@ Partial Class Form2
         Me.TextBox42.Name = "TextBox42"
         Me.TextBox42.Size = New System.Drawing.Size(202, 39)
         Me.TextBox42.TabIndex = 41
+        Me.TextBox42.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'TextBox43
         '
