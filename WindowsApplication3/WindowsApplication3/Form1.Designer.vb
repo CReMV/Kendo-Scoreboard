@@ -76,6 +76,7 @@ Partial Class Form1
         Me.ComboBox35 = New System.Windows.Forms.ComboBox()
         Me.ComboBox36 = New System.Windows.Forms.ComboBox()
         Me.TextBox4 = New System.Windows.Forms.TextBox()
+        Me.TextBox5 = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'TextBox1
@@ -628,12 +629,22 @@ Partial Class Form1
         Me.TextBox4.TabIndex = 83
         Me.TextBox4.Text = "paratasi"
         '
+        'TextBox5
+        '
+        Me.TextBox5.Font = New System.Drawing.Font("Verdana", 8.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox5.Location = New System.Drawing.Point(725, 506)
+        Me.TextBox5.Name = "TextBox5"
+        Me.TextBox5.Size = New System.Drawing.Size(135, 21)
+        Me.TextBox5.TabIndex = 84
+        Me.TextBox5.Text = "created by C.A.G.P"
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Window
-        Me.ClientSize = New System.Drawing.Size(870, 488)
+        Me.ClientSize = New System.Drawing.Size(872, 529)
+        Me.Controls.Add(Me.TextBox5)
         Me.Controls.Add(Me.TextBox4)
         Me.Controls.Add(Me.ComboBox36)
         Me.Controls.Add(Me.ComboBox35)
@@ -749,4 +760,5 @@ Partial Class Form1
     Friend WithEvents ComboBox35 As ComboBox
     Friend WithEvents ComboBox36 As ComboBox
     Friend WithEvents TextBox4 As TextBox
+    Friend WithEvents TextBox5 As TextBox
 End Class
