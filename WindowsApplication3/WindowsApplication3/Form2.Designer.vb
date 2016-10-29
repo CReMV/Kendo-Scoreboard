@@ -74,7 +74,7 @@ Partial Class Form2
         '
         Me.TextBox1.BackColor = System.Drawing.Color.LightGray
         Me.TextBox1.Font = New System.Drawing.Font("Verdana", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox1.Location = New System.Drawing.Point(44, 31)
+        Me.TextBox1.Location = New System.Drawing.Point(12, 31)
         Me.TextBox1.Multiline = True
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.ReadOnly = True
@@ -98,7 +98,7 @@ Partial Class Form2
         '
         Me.TextBox3.BackColor = System.Drawing.Color.LightGray
         Me.TextBox3.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox3.Location = New System.Drawing.Point(44, 97)
+        Me.TextBox3.Location = New System.Drawing.Point(12, 97)
         Me.TextBox3.Multiline = True
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.ReadOnly = True
@@ -107,7 +107,7 @@ Partial Class Form2
         '
         'TextBox4
         '
-        Me.TextBox4.Location = New System.Drawing.Point(384, 144)
+        Me.TextBox4.Location = New System.Drawing.Point(352, 144)
         Me.TextBox4.Multiline = True
         Me.TextBox4.Name = "TextBox4"
         Me.TextBox4.ReadOnly = True
@@ -119,7 +119,7 @@ Partial Class Form2
         '
         Me.TextBox5.BackColor = System.Drawing.Color.LightGray
         Me.TextBox5.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox5.Location = New System.Drawing.Point(44, 187)
+        Me.TextBox5.Location = New System.Drawing.Point(12, 187)
         Me.TextBox5.Multiline = True
         Me.TextBox5.Name = "TextBox5"
         Me.TextBox5.ReadOnly = True
@@ -130,7 +130,7 @@ Partial Class Form2
         '
         Me.TextBox6.BackColor = System.Drawing.Color.LightGray
         Me.TextBox6.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox6.Location = New System.Drawing.Point(44, 277)
+        Me.TextBox6.Location = New System.Drawing.Point(12, 277)
         Me.TextBox6.Multiline = True
         Me.TextBox6.Name = "TextBox6"
         Me.TextBox6.ReadOnly = True
@@ -139,7 +139,7 @@ Partial Class Form2
         '
         'TextBox7
         '
-        Me.TextBox7.Location = New System.Drawing.Point(384, 278)
+        Me.TextBox7.Location = New System.Drawing.Point(352, 278)
         Me.TextBox7.Multiline = True
         Me.TextBox7.Name = "TextBox7"
         Me.TextBox7.ReadOnly = True
@@ -151,7 +151,7 @@ Partial Class Form2
         '
         Me.TextBox8.BackColor = System.Drawing.Color.LightGray
         Me.TextBox8.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox8.Location = New System.Drawing.Point(44, 142)
+        Me.TextBox8.Location = New System.Drawing.Point(12, 142)
         Me.TextBox8.Multiline = True
         Me.TextBox8.Name = "TextBox8"
         Me.TextBox8.ReadOnly = True
@@ -160,7 +160,7 @@ Partial Class Form2
         '
         'TextBox9
         '
-        Me.TextBox9.Location = New System.Drawing.Point(253, 144)
+        Me.TextBox9.Location = New System.Drawing.Point(221, 144)
         Me.TextBox9.Multiline = True
         Me.TextBox9.Name = "TextBox9"
         Me.TextBox9.ReadOnly = True
@@ -172,7 +172,7 @@ Partial Class Form2
         '
         Me.TextBox10.BackColor = System.Drawing.Color.LightGray
         Me.TextBox10.Font = New System.Drawing.Font("Verdana", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox10.Location = New System.Drawing.Point(44, 232)
+        Me.TextBox10.Location = New System.Drawing.Point(12, 232)
         Me.TextBox10.Multiline = True
         Me.TextBox10.Name = "TextBox10"
         Me.TextBox10.ReadOnly = True
@@ -181,7 +181,7 @@ Partial Class Form2
         '
         'TextBox11
         '
-        Me.TextBox11.Location = New System.Drawing.Point(253, 278)
+        Me.TextBox11.Location = New System.Drawing.Point(221, 278)
         Me.TextBox11.Multiline = True
         Me.TextBox11.Name = "TextBox11"
         Me.TextBox11.ReadOnly = True
@@ -191,7 +191,7 @@ Partial Class Form2
         '
         'TextBox12
         '
-        Me.TextBox12.Location = New System.Drawing.Point(319, 278)
+        Me.TextBox12.Location = New System.Drawing.Point(287, 278)
         Me.TextBox12.Multiline = True
         Me.TextBox12.Name = "TextBox12"
         Me.TextBox12.ReadOnly = True
@@ -201,7 +201,7 @@ Partial Class Form2
         '
         'TextBox13
         '
-        Me.TextBox13.Location = New System.Drawing.Point(253, 97)
+        Me.TextBox13.Location = New System.Drawing.Point(221, 97)
         Me.TextBox13.Multiline = True
         Me.TextBox13.Name = "TextBox13"
         Me.TextBox13.ReadOnly = True
@@ -211,7 +211,7 @@ Partial Class Form2
         '
         'TextBox14
         '
-        Me.TextBox14.Location = New System.Drawing.Point(319, 144)
+        Me.TextBox14.Location = New System.Drawing.Point(287, 144)
         Me.TextBox14.Multiline = True
         Me.TextBox14.Name = "TextBox14"
         Me.TextBox14.ReadOnly = True
@@ -221,7 +221,7 @@ Partial Class Form2
         '
         'TextBox15
         '
-        Me.TextBox15.Location = New System.Drawing.Point(253, 188)
+        Me.TextBox15.Location = New System.Drawing.Point(221, 188)
         Me.TextBox15.Multiline = True
         Me.TextBox15.Name = "TextBox15"
         Me.TextBox15.ReadOnly = True
@@ -231,7 +231,7 @@ Partial Class Form2
         '
         'TextBox16
         '
-        Me.TextBox16.Location = New System.Drawing.Point(253, 233)
+        Me.TextBox16.Location = New System.Drawing.Point(221, 233)
         Me.TextBox16.Multiline = True
         Me.TextBox16.Name = "TextBox16"
         Me.TextBox16.ReadOnly = True
@@ -241,7 +241,7 @@ Partial Class Form2
         '
         'TextBox17
         '
-        Me.TextBox17.Location = New System.Drawing.Point(386, 233)
+        Me.TextBox17.Location = New System.Drawing.Point(354, 233)
         Me.TextBox17.Multiline = True
         Me.TextBox17.Name = "TextBox17"
         Me.TextBox17.ReadOnly = True
@@ -251,7 +251,7 @@ Partial Class Form2
         '
         'TextBox18
         '
-        Me.TextBox18.Location = New System.Drawing.Point(385, 97)
+        Me.TextBox18.Location = New System.Drawing.Point(353, 97)
         Me.TextBox18.Multiline = True
         Me.TextBox18.Name = "TextBox18"
         Me.TextBox18.ReadOnly = True
@@ -261,7 +261,7 @@ Partial Class Form2
         '
         'TextBox19
         '
-        Me.TextBox19.Location = New System.Drawing.Point(319, 97)
+        Me.TextBox19.Location = New System.Drawing.Point(287, 97)
         Me.TextBox19.Multiline = True
         Me.TextBox19.Name = "TextBox19"
         Me.TextBox19.ReadOnly = True
@@ -271,7 +271,7 @@ Partial Class Form2
         '
         'TextBox20
         '
-        Me.TextBox20.Location = New System.Drawing.Point(319, 188)
+        Me.TextBox20.Location = New System.Drawing.Point(287, 188)
         Me.TextBox20.Multiline = True
         Me.TextBox20.Name = "TextBox20"
         Me.TextBox20.ReadOnly = True
@@ -281,7 +281,7 @@ Partial Class Form2
         '
         'TextBox21
         '
-        Me.TextBox21.Location = New System.Drawing.Point(384, 188)
+        Me.TextBox21.Location = New System.Drawing.Point(352, 188)
         Me.TextBox21.Multiline = True
         Me.TextBox21.Name = "TextBox21"
         Me.TextBox21.ReadOnly = True
@@ -291,7 +291,7 @@ Partial Class Form2
         '
         'TextBox22
         '
-        Me.TextBox22.Location = New System.Drawing.Point(319, 233)
+        Me.TextBox22.Location = New System.Drawing.Point(287, 233)
         Me.TextBox22.Multiline = True
         Me.TextBox22.Name = "TextBox22"
         Me.TextBox22.ReadOnly = True
@@ -560,7 +560,7 @@ Partial Class Form2
         '
         Me.PictureBox1.Anchor = System.Windows.Forms.AnchorStyles.Top
         Me.PictureBox1.Image = Global.WindowsApplication3.My.Resources.Resources.KENDO1
-        Me.PictureBox1.Location = New System.Drawing.Point(456, 31)
+        Me.PictureBox1.Location = New System.Drawing.Point(446, 31)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(180, 259)
         Me.PictureBox1.TabIndex = 44
