@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "kendo scoreboard", "WindowsApplication3\kendo scoreboard.vbproj", "{7C092914-9DCE-4DE0-80DA-15D35DFDEC0D}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Kendo Team Scoreboard by C.A.G.P", "WindowsApplication3\Kendo Team Scoreboard by C.A.G.P.vbproj", "{7C092914-9DCE-4DE0-80DA-15D35DFDEC0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
