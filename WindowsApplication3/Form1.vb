@@ -23,6 +23,8 @@
         Form2.TextBox41.Text = TextBox41.Text
         Form2.TextBox42.Text = TextBox42.Text
         Form2.TextBox44.Text = TextBox44.Text
+        Form2.TextBox53.Text = TextBox6.Text
+        Form2.TextBox54.Text = TextBox7.Text
         Form2.TextBox13.Text = ComboBox1.Text
         Form2.TextBox19.Text = ComboBox2.Text
         Form2.TextBox18.Text = ComboBox3.Text
@@ -67,6 +69,8 @@
         Me.TextBox2.Text = "Team 2"
         Me.TextBox3.Text = "Player"
         Me.TextBox4.Text = "Player"
+        Me.TextBox6.Text = "Pool"
+        Me.TextBox7.Text = "Shiaijo"
         Me.TextBox38.Text = "Player 1"
         Me.TextBox39.Text = "Player 2"
         Me.TextBox40.Text = "Player 3"
