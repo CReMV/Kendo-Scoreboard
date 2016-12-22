@@ -266,7 +266,7 @@ Partial Class Form1
         Me.ComboBox1.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox1.ForeColor = System.Drawing.SystemColors.WindowText
         Me.ComboBox1.FormattingEnabled = True
-        Me.ComboBox1.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox1.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox1.Location = New System.Drawing.Point(197, 163)
         Me.ComboBox1.Name = "ComboBox1"
         Me.ComboBox1.Size = New System.Drawing.Size(71, 21)
@@ -276,7 +276,7 @@ Partial Class Form1
         '
         Me.ComboBox2.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox2.FormattingEnabled = True
-        Me.ComboBox2.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox2.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox2.Location = New System.Drawing.Point(274, 163)
         Me.ComboBox2.Name = "ComboBox2"
         Me.ComboBox2.Size = New System.Drawing.Size(71, 21)
@@ -286,7 +286,7 @@ Partial Class Form1
         '
         Me.ComboBox3.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox3.FormattingEnabled = True
-        Me.ComboBox3.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲", "X"})
+        Me.ComboBox3.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲", "X"})
         Me.ComboBox3.Location = New System.Drawing.Point(351, 163)
         Me.ComboBox3.Name = "ComboBox3"
         Me.ComboBox3.Size = New System.Drawing.Size(71, 21)
@@ -296,7 +296,7 @@ Partial Class Form1
         '
         Me.ComboBox4.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox4.FormattingEnabled = True
-        Me.ComboBox4.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox4.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox4.Location = New System.Drawing.Point(197, 208)
         Me.ComboBox4.Name = "ComboBox4"
         Me.ComboBox4.Size = New System.Drawing.Size(71, 21)
@@ -306,7 +306,7 @@ Partial Class Form1
         '
         Me.ComboBox5.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox5.FormattingEnabled = True
-        Me.ComboBox5.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox5.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox5.Location = New System.Drawing.Point(274, 208)
         Me.ComboBox5.Name = "ComboBox5"
         Me.ComboBox5.Size = New System.Drawing.Size(71, 21)
@@ -316,7 +316,7 @@ Partial Class Form1
         '
         Me.ComboBox6.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox6.FormattingEnabled = True
-        Me.ComboBox6.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲", "X"})
+        Me.ComboBox6.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲", "X"})
         Me.ComboBox6.Location = New System.Drawing.Point(351, 208)
         Me.ComboBox6.Name = "ComboBox6"
         Me.ComboBox6.Size = New System.Drawing.Size(71, 21)
@@ -326,7 +326,7 @@ Partial Class Form1
         '
         Me.ComboBox7.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox7.FormattingEnabled = True
-        Me.ComboBox7.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox7.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲", "X"})
         Me.ComboBox7.Location = New System.Drawing.Point(197, 252)
         Me.ComboBox7.Name = "ComboBox7"
         Me.ComboBox7.Size = New System.Drawing.Size(71, 21)
@@ -336,7 +336,7 @@ Partial Class Form1
         '
         Me.ComboBox8.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox8.FormattingEnabled = True
-        Me.ComboBox8.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox8.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox8.Location = New System.Drawing.Point(274, 253)
         Me.ComboBox8.Name = "ComboBox8"
         Me.ComboBox8.Size = New System.Drawing.Size(71, 21)
@@ -346,7 +346,7 @@ Partial Class Form1
         '
         Me.ComboBox9.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox9.FormattingEnabled = True
-        Me.ComboBox9.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲", "X"})
+        Me.ComboBox9.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲", "X"})
         Me.ComboBox9.Location = New System.Drawing.Point(351, 253)
         Me.ComboBox9.Name = "ComboBox9"
         Me.ComboBox9.Size = New System.Drawing.Size(71, 21)
@@ -356,7 +356,7 @@ Partial Class Form1
         '
         Me.ComboBox10.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox10.FormattingEnabled = True
-        Me.ComboBox10.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox10.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox10.Location = New System.Drawing.Point(197, 297)
         Me.ComboBox10.Name = "ComboBox10"
         Me.ComboBox10.Size = New System.Drawing.Size(71, 21)
@@ -366,7 +366,7 @@ Partial Class Form1
         '
         Me.ComboBox11.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox11.FormattingEnabled = True
-        Me.ComboBox11.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox11.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox11.Location = New System.Drawing.Point(274, 297)
         Me.ComboBox11.Name = "ComboBox11"
         Me.ComboBox11.Size = New System.Drawing.Size(71, 21)
@@ -376,7 +376,7 @@ Partial Class Form1
         '
         Me.ComboBox12.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox12.FormattingEnabled = True
-        Me.ComboBox12.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲", "X"})
+        Me.ComboBox12.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲", "X"})
         Me.ComboBox12.Location = New System.Drawing.Point(351, 297)
         Me.ComboBox12.Name = "ComboBox12"
         Me.ComboBox12.Size = New System.Drawing.Size(71, 21)
@@ -386,7 +386,7 @@ Partial Class Form1
         '
         Me.ComboBox13.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox13.FormattingEnabled = True
-        Me.ComboBox13.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox13.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox13.Location = New System.Drawing.Point(197, 340)
         Me.ComboBox13.Name = "ComboBox13"
         Me.ComboBox13.Size = New System.Drawing.Size(71, 21)
@@ -396,7 +396,7 @@ Partial Class Form1
         '
         Me.ComboBox14.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox14.FormattingEnabled = True
-        Me.ComboBox14.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox14.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox14.Location = New System.Drawing.Point(275, 340)
         Me.ComboBox14.Name = "ComboBox14"
         Me.ComboBox14.Size = New System.Drawing.Size(70, 21)
@@ -406,7 +406,7 @@ Partial Class Form1
         '
         Me.ComboBox15.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox15.FormattingEnabled = True
-        Me.ComboBox15.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲", "X"})
+        Me.ComboBox15.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲", "X"})
         Me.ComboBox15.Location = New System.Drawing.Point(351, 340)
         Me.ComboBox15.Name = "ComboBox15"
         Me.ComboBox15.Size = New System.Drawing.Size(71, 21)
@@ -416,7 +416,7 @@ Partial Class Form1
         '
         Me.ComboBox16.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox16.FormattingEnabled = True
-        Me.ComboBox16.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲", "X"})
+        Me.ComboBox16.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲", "X"})
         Me.ComboBox16.Location = New System.Drawing.Point(428, 163)
         Me.ComboBox16.Name = "ComboBox16"
         Me.ComboBox16.Size = New System.Drawing.Size(71, 21)
@@ -426,7 +426,7 @@ Partial Class Form1
         '
         Me.ComboBox17.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox17.FormattingEnabled = True
-        Me.ComboBox17.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox17.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox17.Location = New System.Drawing.Point(582, 163)
         Me.ComboBox17.Name = "ComboBox17"
         Me.ComboBox17.Size = New System.Drawing.Size(71, 21)
@@ -436,7 +436,7 @@ Partial Class Form1
         '
         Me.ComboBox18.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox18.FormattingEnabled = True
-        Me.ComboBox18.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox18.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox18.Location = New System.Drawing.Point(505, 163)
         Me.ComboBox18.Name = "ComboBox18"
         Me.ComboBox18.Size = New System.Drawing.Size(71, 21)
@@ -446,7 +446,7 @@ Partial Class Form1
         '
         Me.ComboBox19.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox19.FormattingEnabled = True
-        Me.ComboBox19.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲", "X"})
+        Me.ComboBox19.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲", "X"})
         Me.ComboBox19.Location = New System.Drawing.Point(428, 208)
         Me.ComboBox19.Name = "ComboBox19"
         Me.ComboBox19.Size = New System.Drawing.Size(71, 21)
@@ -456,7 +456,7 @@ Partial Class Form1
         '
         Me.ComboBox20.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox20.FormattingEnabled = True
-        Me.ComboBox20.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox20.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox20.Location = New System.Drawing.Point(505, 208)
         Me.ComboBox20.Name = "ComboBox20"
         Me.ComboBox20.Size = New System.Drawing.Size(71, 21)
@@ -466,7 +466,7 @@ Partial Class Form1
         '
         Me.ComboBox21.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox21.FormattingEnabled = True
-        Me.ComboBox21.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox21.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲", "X"})
         Me.ComboBox21.Location = New System.Drawing.Point(582, 208)
         Me.ComboBox21.Name = "ComboBox21"
         Me.ComboBox21.Size = New System.Drawing.Size(71, 21)
@@ -476,7 +476,7 @@ Partial Class Form1
         '
         Me.ComboBox22.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox22.FormattingEnabled = True
-        Me.ComboBox22.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲", "X"})
+        Me.ComboBox22.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲", "X"})
         Me.ComboBox22.Location = New System.Drawing.Point(428, 253)
         Me.ComboBox22.Name = "ComboBox22"
         Me.ComboBox22.Size = New System.Drawing.Size(71, 21)
@@ -486,7 +486,7 @@ Partial Class Form1
         '
         Me.ComboBox23.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox23.FormattingEnabled = True
-        Me.ComboBox23.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox23.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox23.Location = New System.Drawing.Point(505, 253)
         Me.ComboBox23.Name = "ComboBox23"
         Me.ComboBox23.Size = New System.Drawing.Size(71, 21)
@@ -496,7 +496,7 @@ Partial Class Form1
         '
         Me.ComboBox24.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox24.FormattingEnabled = True
-        Me.ComboBox24.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox24.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox24.Location = New System.Drawing.Point(582, 253)
         Me.ComboBox24.Name = "ComboBox24"
         Me.ComboBox24.Size = New System.Drawing.Size(71, 21)
@@ -506,7 +506,7 @@ Partial Class Form1
         '
         Me.ComboBox25.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox25.FormattingEnabled = True
-        Me.ComboBox25.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲", "X"})
+        Me.ComboBox25.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲", "X"})
         Me.ComboBox25.Location = New System.Drawing.Point(428, 297)
         Me.ComboBox25.Name = "ComboBox25"
         Me.ComboBox25.Size = New System.Drawing.Size(71, 21)
@@ -516,7 +516,7 @@ Partial Class Form1
         '
         Me.ComboBox26.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox26.FormattingEnabled = True
-        Me.ComboBox26.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox26.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox26.Location = New System.Drawing.Point(505, 297)
         Me.ComboBox26.Name = "ComboBox26"
         Me.ComboBox26.Size = New System.Drawing.Size(71, 21)
@@ -526,7 +526,7 @@ Partial Class Form1
         '
         Me.ComboBox27.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox27.FormattingEnabled = True
-        Me.ComboBox27.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox27.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox27.Location = New System.Drawing.Point(582, 297)
         Me.ComboBox27.Name = "ComboBox27"
         Me.ComboBox27.Size = New System.Drawing.Size(71, 21)
@@ -536,7 +536,7 @@ Partial Class Form1
         '
         Me.ComboBox28.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox28.FormattingEnabled = True
-        Me.ComboBox28.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲", "X"})
+        Me.ComboBox28.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲", "X"})
         Me.ComboBox28.Location = New System.Drawing.Point(428, 340)
         Me.ComboBox28.Name = "ComboBox28"
         Me.ComboBox28.Size = New System.Drawing.Size(71, 21)
@@ -546,7 +546,7 @@ Partial Class Form1
         '
         Me.ComboBox29.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox29.FormattingEnabled = True
-        Me.ComboBox29.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox29.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox29.Location = New System.Drawing.Point(505, 340)
         Me.ComboBox29.Name = "ComboBox29"
         Me.ComboBox29.Size = New System.Drawing.Size(71, 21)
@@ -556,7 +556,7 @@ Partial Class Form1
         '
         Me.ComboBox30.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox30.FormattingEnabled = True
-        Me.ComboBox30.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox30.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox30.Location = New System.Drawing.Point(582, 340)
         Me.ComboBox30.Name = "ComboBox30"
         Me.ComboBox30.Size = New System.Drawing.Size(71, 21)
@@ -576,7 +576,7 @@ Partial Class Form1
         '
         Me.ComboBox31.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox31.FormattingEnabled = True
-        Me.ComboBox31.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox31.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox31.Location = New System.Drawing.Point(197, 396)
         Me.ComboBox31.Name = "ComboBox31"
         Me.ComboBox31.Size = New System.Drawing.Size(71, 21)
@@ -586,7 +586,7 @@ Partial Class Form1
         '
         Me.ComboBox32.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox32.FormattingEnabled = True
-        Me.ComboBox32.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox32.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox32.Location = New System.Drawing.Point(275, 396)
         Me.ComboBox32.Name = "ComboBox32"
         Me.ComboBox32.Size = New System.Drawing.Size(70, 21)
@@ -596,7 +596,7 @@ Partial Class Form1
         '
         Me.ComboBox33.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox33.FormattingEnabled = True
-        Me.ComboBox33.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲", "X"})
+        Me.ComboBox33.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲", "X"})
         Me.ComboBox33.Location = New System.Drawing.Point(351, 396)
         Me.ComboBox33.Name = "ComboBox33"
         Me.ComboBox33.Size = New System.Drawing.Size(71, 21)
@@ -606,7 +606,7 @@ Partial Class Form1
         '
         Me.ComboBox34.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox34.FormattingEnabled = True
-        Me.ComboBox34.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲", "X"})
+        Me.ComboBox34.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲", "X"})
         Me.ComboBox34.Location = New System.Drawing.Point(428, 396)
         Me.ComboBox34.Name = "ComboBox34"
         Me.ComboBox34.Size = New System.Drawing.Size(71, 21)
@@ -616,7 +616,7 @@ Partial Class Form1
         '
         Me.ComboBox35.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox35.FormattingEnabled = True
-        Me.ComboBox35.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox35.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox35.Location = New System.Drawing.Point(505, 396)
         Me.ComboBox35.Name = "ComboBox35"
         Me.ComboBox35.Size = New System.Drawing.Size(71, 21)
@@ -626,7 +626,7 @@ Partial Class Form1
         '
         Me.ComboBox36.BackColor = System.Drawing.SystemColors.ScrollBar
         Me.ComboBox36.FormattingEnabled = True
-        Me.ComboBox36.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "▲"})
+        Me.ComboBox36.Items.AddRange(New Object() {"M", "K", "D", "T", "H", "Ht", "I", "▲"})
         Me.ComboBox36.Location = New System.Drawing.Point(582, 396)
         Me.ComboBox36.Name = "ComboBox36"
         Me.ComboBox36.Size = New System.Drawing.Size(71, 21)
