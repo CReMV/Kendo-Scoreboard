@@ -8,8 +8,8 @@
     End Sub
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Form2.Show()
-        Form2.TextBox1.Text = TextBox1.Text
-        Form2.TextBox2.Text = TextBox2.Text
+        Form2.TextBox1.Text = TeamABox.Text
+        Form2.TextBox2.Text = TeamBBox.Text
         Form2.TextBox3.Text = TextBox33.Text
         Form2.TextBox45.Text = TextBox3.Text
         Form2.TextBox52.Text = TextBox4.Text
@@ -23,8 +23,8 @@
         Form2.TextBox41.Text = TextBox41.Text
         Form2.TextBox42.Text = TextBox42.Text
         Form2.TextBox44.Text = TextBox44.Text
-        Form2.TextBox53.Text = TextBox6.Text
-        Form2.TextBox54.Text = TextBox7.Text
+        Form2.TextBox53.Text = PoolBox.Text
+        Form2.TextBox54.Text = PositionBox.Text
         Form2.TextBox13.Text = ComboBox1.Text
         Form2.TextBox19.Text = ComboBox2.Text
         Form2.TextBox18.Text = ComboBox3.Text
@@ -65,12 +65,12 @@
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         Me.Show()
-        Me.TextBox1.Text = "Team 1"
-        Me.TextBox2.Text = "Team 2"
+        Me.TeamABox.Text = "Team 1"
+        Me.TeamBBox.Text = "Team 2"
         Me.TextBox3.Text = "Player"
         Me.TextBox4.Text = "Player"
-        Me.TextBox6.Text = "Pool"
-        Me.TextBox7.Text = "Shiaijo"
+        Me.PoolBox.Text = "Pool"
+        Me.PositionBox.Text = "Shiaijo"
         Me.TextBox38.Text = "Player 1"
         Me.TextBox39.Text = "Player 2"
         Me.TextBox40.Text = "Player 3"
